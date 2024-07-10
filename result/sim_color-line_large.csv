@@ -1,0 +1,217 @@
+name_a,type_a,name_b,type_b,similarity,tag,model,a_b_type
+line red,text,line_red.png,image,0.27582722902297974,color-line,large,text-image
+line red,text,line_blue.png,image,0.2077227383852005,color-line,large,text-image
+line red,text,line_black.png,image,0.20195813477039337,color-line,large,text-image
+line blue,text,line_red.png,image,0.22481445968151093,color-line,large,text-image
+line blue,text,line_blue.png,image,0.2810911238193512,color-line,large,text-image
+line blue,text,line_black.png,image,0.22248566150665283,color-line,large,text-image
+line black,text,line_red.png,image,0.2554934322834015,color-line,large,text-image
+line black,text,line_blue.png,image,0.2459418922662735,color-line,large,text-image
+line black,text,line_black.png,image,0.2629159092903137,color-line,large,text-image
+赤 の線,text,line_red.png,image,0.17909793555736542,color-line,large,text-image
+赤 の線,text,line_blue.png,image,0.16251744329929352,color-line,large,text-image
+赤 の線,text,line_black.png,image,0.1603071391582489,color-line,large,text-image
+青 の線,text,line_red.png,image,0.16917036473751068,color-line,large,text-image
+青 の線,text,line_blue.png,image,0.1515381783246994,color-line,large,text-image
+青 の線,text,line_black.png,image,0.14792904257774353,color-line,large,text-image
+黒 の線,text,line_red.png,image,0.19084778428077698,color-line,large,text-image
+黒 の線,text,line_blue.png,image,0.16798822581768036,color-line,large,text-image
+黒 の線,text,line_black.png,image,0.16211941838264465,color-line,large,text-image
+line red,text,line blue,text,0.8105816841125488,color-line,large,text-text
+line red,text,line black,text,0.848978579044342,color-line,large,text-text
+line red,text,赤 の線,text,0.6642906069755554,color-line,large,text-text
+line red,text,青 の線,text,0.6361038088798523,color-line,large,text-text
+line red,text,黒 の線,text,0.6423019170761108,color-line,large,text-text
+line blue,text,line black,text,0.8475626707077026,color-line,large,text-text
+line blue,text,赤 の線,text,0.6168509125709534,color-line,large,text-text
+line blue,text,青 の線,text,0.5911481380462646,color-line,large,text-text
+line blue,text,黒 の線,text,0.5893244743347168,color-line,large,text-text
+line black,text,赤 の線,text,0.6846962571144104,color-line,large,text-text
+line black,text,青 の線,text,0.6488806009292603,color-line,large,text-text
+line black,text,黒 の線,text,0.6526814699172974,color-line,large,text-text
+赤 の線,text,青 の線,text,0.9731420278549194,color-line,large,text-text
+赤 の線,text,黒 の線,text,0.9461315870285034,color-line,large,text-text
+青 の線,text,黒 の線,text,0.9589774012565613,color-line,large,text-text
+line_red.png,image,line_blue.png,image,0.9054781198501587,color-line,large,image-image
+line_red.png,image,line_black.png,image,0.8878604769706726,color-line,large,image-image
+line_blue.png,image,line_black.png,image,0.9262216687202454,color-line,large,image-image
+img: line_red.png - text: line red + text: line blue,custom,line_blue.png,image,0.8830134868621826,color-line,large,custom-image
+img: line_red.png - text: line red + text: line blue,custom,line_black.png,image,0.8249600529670715,color-line,large,custom-image
+img: line_red.png - text: line red + text: line black,custom,line_blue.png,image,0.8525192141532898,color-line,large,custom-image
+img: line_red.png - text: line red + text: line black,custom,line_black.png,image,0.8557291626930237,color-line,large,custom-image
+img: line_red.png - text: line red + text: 赤 の線,custom,line_blue.png,image,0.735069751739502,color-line,large,custom-image
+img: line_red.png - text: line red + text: 赤 の線,custom,line_black.png,image,0.7228161096572876,color-line,large,custom-image
+img: line_red.png - text: line red + text: 青 の線,custom,line_blue.png,image,0.7236072421073914,color-line,large,custom-image
+img: line_red.png - text: line red + text: 青 の線,custom,line_black.png,image,0.7103192210197449,color-line,large,custom-image
+img: line_red.png - text: line red + text: 黒 の線,custom,line_blue.png,image,0.7327296137809753,color-line,large,custom-image
+img: line_red.png - text: line red + text: 黒 の線,custom,line_black.png,image,0.7178508639335632,color-line,large,custom-image
+img: line_red.png - text: line blue + text: line red,custom,line_blue.png,image,0.7165366411209106,color-line,large,custom-image
+img: line_red.png - text: line blue + text: line red,custom,line_black.png,image,0.7403771281242371,color-line,large,custom-image
+img: line_red.png - text: line blue + text: line black,custom,line_blue.png,image,0.7695290446281433,color-line,large,custom-image
+img: line_red.png - text: line blue + text: line black,custom,line_black.png,image,0.8120315670967102,color-line,large,custom-image
+img: line_red.png - text: line blue + text: 赤 の線,custom,line_blue.png,image,0.648143470287323,color-line,large,custom-image
+img: line_red.png - text: line blue + text: 赤 の線,custom,line_black.png,image,0.6730119585990906,color-line,large,custom-image
+img: line_red.png - text: line blue + text: 青 の線,custom,line_blue.png,image,0.6388781070709229,color-line,large,custom-image
+img: line_red.png - text: line blue + text: 青 の線,custom,line_black.png,image,0.6628987193107605,color-line,large,custom-image
+img: line_red.png - text: line blue + text: 黒 の線,custom,line_blue.png,image,0.6455047130584717,color-line,large,custom-image
+img: line_red.png - text: line blue + text: 黒 の線,custom,line_black.png,image,0.6680141687393188,color-line,large,custom-image
+img: line_red.png - text: line black + text: line red,custom,line_blue.png,image,0.7624558210372925,color-line,large,custom-image
+img: line_red.png - text: line black + text: line red,custom,line_black.png,image,0.7279617786407471,color-line,large,custom-image
+img: line_red.png - text: line black + text: line blue,custom,line_blue.png,image,0.850029468536377,color-line,large,custom-image
+img: line_red.png - text: line black + text: line blue,custom,line_black.png,image,0.7716044187545776,color-line,large,custom-image
+img: line_red.png - text: line black + text: 赤 の線,custom,line_blue.png,image,0.6941786408424377,color-line,large,custom-image
+img: line_red.png - text: line black + text: 赤 の線,custom,line_black.png,image,0.6641133427619934,color-line,large,custom-image
+img: line_red.png - text: line black + text: 青 の線,custom,line_blue.png,image,0.6780027151107788,color-line,large,custom-image
+img: line_red.png - text: line black + text: 青 の線,custom,line_black.png,image,0.6470838189125061,color-line,large,custom-image
+img: line_red.png - text: line black + text: 黒 の線,custom,line_blue.png,image,0.6853961944580078,color-line,large,custom-image
+img: line_red.png - text: line black + text: 黒 の線,custom,line_black.png,image,0.6529434323310852,color-line,large,custom-image
+img: line_red.png - text: 赤 の線 + text: line red,custom,line_blue.png,image,0.7149913311004639,color-line,large,custom-image
+img: line_red.png - text: 赤 の線 + text: line red,custom,line_black.png,image,0.6992256045341492,color-line,large,custom-image
+img: line_red.png - text: 赤 の線 + text: line blue,custom,line_blue.png,image,0.7679629325866699,color-line,large,custom-image
+img: line_red.png - text: 赤 の線 + text: line blue,custom,line_black.png,image,0.7167603373527527,color-line,large,custom-image
+img: line_red.png - text: 赤 の線 + text: line black,custom,line_blue.png,image,0.7540177702903748,color-line,large,custom-image
+img: line_red.png - text: 赤 の線 + text: line black,custom,line_black.png,image,0.7544168829917908,color-line,large,custom-image
+img: line_red.png - text: 赤 の線 + text: 青 の線,custom,line_blue.png,image,0.8826536536216736,color-line,large,custom-image
+img: line_red.png - text: 赤 の線 + text: 青 の線,custom,line_black.png,image,0.8639979362487793,color-line,large,custom-image
+img: line_red.png - text: 赤 の線 + text: 黒 の線,custom,line_blue.png,image,0.8616650700569153,color-line,large,custom-image
+img: line_red.png - text: 赤 の線 + text: 黒 の線,custom,line_black.png,image,0.8418644666671753,color-line,large,custom-image
+img: line_red.png - text: 青 の線 + text: line red,custom,line_blue.png,image,0.7154614925384521,color-line,large,custom-image
+img: line_red.png - text: 青 の線 + text: line red,custom,line_black.png,image,0.7008371949195862,color-line,large,custom-image
+img: line_red.png - text: 青 の線 + text: line blue,custom,line_blue.png,image,0.7694380283355713,color-line,large,custom-image
+img: line_red.png - text: 青 の線 + text: line blue,custom,line_black.png,image,0.7198193669319153,color-line,large,custom-image
+img: line_red.png - text: 青 の線 + text: line black,custom,line_blue.png,image,0.7497271299362183,color-line,large,custom-image
+img: line_red.png - text: 青 の線 + text: line black,custom,line_black.png,image,0.7510164380073547,color-line,large,custom-image
+img: line_red.png - text: 青 の線 + text: 赤 の線,custom,line_blue.png,image,0.8873767852783203,color-line,large,custom-image
+img: line_red.png - text: 青 の線 + text: 赤 の線,custom,line_black.png,image,0.8715522289276123,color-line,large,custom-image
+img: line_red.png - text: 青 の線 + text: 黒 の線,custom,line_blue.png,image,0.8750549554824829,color-line,large,custom-image
+img: line_red.png - text: 青 の線 + text: 黒 の線,custom,line_black.png,image,0.8564279079437256,color-line,large,custom-image
+img: line_red.png - text: 黒 の線 + text: line red,custom,line_blue.png,image,0.7203575968742371,color-line,large,custom-image
+img: line_red.png - text: 黒 の線 + text: line red,custom,line_black.png,image,0.7069036364555359,color-line,large,custom-image
+img: line_red.png - text: 黒 の線 + text: line blue,custom,line_blue.png,image,0.7734507322311401,color-line,large,custom-image
+img: line_red.png - text: 黒 の線 + text: line blue,custom,line_black.png,image,0.7245419025421143,color-line,large,custom-image
+img: line_red.png - text: 黒 の線 + text: line black,custom,line_blue.png,image,0.7537454962730408,color-line,large,custom-image
+img: line_red.png - text: 黒 の線 + text: line black,custom,line_black.png,image,0.7564640045166016,color-line,large,custom-image
+img: line_red.png - text: 黒 の線 + text: 赤 の線,custom,line_blue.png,image,0.8705794811248779,color-line,large,custom-image
+img: line_red.png - text: 黒 の線 + text: 赤 の線,custom,line_black.png,image,0.8566678166389465,color-line,large,custom-image
+img: line_red.png - text: 黒 の線 + text: 青 の線,custom,line_blue.png,image,0.8788897395133972,color-line,large,custom-image
+img: line_red.png - text: 黒 の線 + text: 青 の線,custom,line_black.png,image,0.8634309768676758,color-line,large,custom-image
+img: line_blue.png - text: line red + text: line blue,custom,line_red.png,image,0.7138398885726929,color-line,large,custom-image
+img: line_blue.png - text: line red + text: line blue,custom,line_black.png,image,0.7859302163124084,color-line,large,custom-image
+img: line_blue.png - text: line red + text: line black,custom,line_red.png,image,0.7704333066940308,color-line,large,custom-image
+img: line_blue.png - text: line red + text: line black,custom,line_black.png,image,0.8520603775978088,color-line,large,custom-image
+img: line_blue.png - text: line red + text: 赤 の線,custom,line_red.png,image,0.6683598756790161,color-line,large,custom-image
+img: line_blue.png - text: line red + text: 赤 の線,custom,line_black.png,image,0.7251447439193726,color-line,large,custom-image
+img: line_blue.png - text: line red + text: 青 の線,custom,line_red.png,image,0.6573140621185303,color-line,large,custom-image
+img: line_blue.png - text: line red + text: 青 の線,custom,line_black.png,image,0.7128576040267944,color-line,large,custom-image
+img: line_blue.png - text: line red + text: 黒 の線,custom,line_red.png,image,0.6714217066764832,color-line,large,custom-image
+img: line_blue.png - text: line red + text: 黒 の線,custom,line_black.png,image,0.7223569750785828,color-line,large,custom-image
+img: line_blue.png - text: line blue + text: line red,custom,line_red.png,image,0.8784205913543701,color-line,large,custom-image
+img: line_blue.png - text: line blue + text: line red,custom,line_black.png,image,0.8374084234237671,color-line,large,custom-image
+img: line_blue.png - text: line blue + text: line black,custom,line_red.png,image,0.8538935780525208,color-line,large,custom-image
+img: line_blue.png - text: line blue + text: line black,custom,line_black.png,image,0.8807829022407532,color-line,large,custom-image
+img: line_blue.png - text: line blue + text: 赤 の線,custom,line_red.png,image,0.7228440046310425,color-line,large,custom-image
+img: line_blue.png - text: line blue + text: 赤 の線,custom,line_black.png,image,0.7267290353775024,color-line,large,custom-image
+img: line_blue.png - text: line blue + text: 青 の線,custom,line_red.png,image,0.7139700651168823,color-line,large,custom-image
+img: line_blue.png - text: line blue + text: 青 の線,custom,line_black.png,image,0.7165012955665588,color-line,large,custom-image
+img: line_blue.png - text: line blue + text: 黒 の線,custom,line_red.png,image,0.7263926863670349,color-line,large,custom-image
+img: line_blue.png - text: line blue + text: 黒 の線,custom,line_black.png,image,0.7239764928817749,color-line,large,custom-image
+img: line_blue.png - text: line black + text: line red,custom,line_red.png,image,0.8399829268455505,color-line,large,custom-image
+img: line_blue.png - text: line black + text: line red,custom,line_black.png,image,0.7901647090911865,color-line,large,custom-image
+img: line_blue.png - text: line black + text: line blue,custom,line_red.png,image,0.7545480132102966,color-line,large,custom-image
+img: line_blue.png - text: line black + text: line blue,custom,line_black.png,image,0.7646417021751404,color-line,large,custom-image
+img: line_blue.png - text: line black + text: 赤 の線,custom,line_red.png,image,0.6956025958061218,color-line,large,custom-image
+img: line_blue.png - text: line black + text: 赤 の線,custom,line_black.png,image,0.6917927265167236,color-line,large,custom-image
+img: line_blue.png - text: line black + text: 青 の線,custom,line_red.png,image,0.6794102787971497,color-line,large,custom-image
+img: line_blue.png - text: line black + text: 青 の線,custom,line_black.png,image,0.6742367744445801,color-line,large,custom-image
+img: line_blue.png - text: line black + text: 黒 の線,custom,line_red.png,image,0.6924569010734558,color-line,large,custom-image
+img: line_blue.png - text: line black + text: 黒 の線,custom,line_black.png,image,0.6822797060012817,color-line,large,custom-image
+img: line_blue.png - text: 赤 の線 + text: line red,custom,line_red.png,image,0.764546275138855,color-line,large,custom-image
+img: line_blue.png - text: 赤 の線 + text: line red,custom,line_black.png,image,0.7422885298728943,color-line,large,custom-image
+img: line_blue.png - text: 赤 の線 + text: line blue,custom,line_red.png,image,0.6860929727554321,color-line,large,custom-image
+img: line_blue.png - text: 赤 の線 + text: line blue,custom,line_black.png,image,0.7131288051605225,color-line,large,custom-image
+img: line_blue.png - text: 赤 の線 + text: line black,custom,line_red.png,image,0.7407699823379517,color-line,large,custom-image
+img: line_blue.png - text: 赤 の線 + text: line black,custom,line_black.png,image,0.7755462527275085,color-line,large,custom-image
+img: line_blue.png - text: 赤 の線 + text: 青 の線,custom,line_red.png,image,0.882402777671814,color-line,large,custom-image
+img: line_blue.png - text: 赤 の線 + text: 青 の線,custom,line_black.png,image,0.9013164043426514,color-line,large,custom-image
+img: line_blue.png - text: 赤 の線 + text: 黒 の線,custom,line_red.png,image,0.8676455616950989,color-line,large,custom-image
+img: line_blue.png - text: 赤 の線 + text: 黒 の線,custom,line_black.png,image,0.8802298307418823,color-line,large,custom-image
+img: line_blue.png - text: 青 の線 + text: line red,custom,line_red.png,image,0.7633740305900574,color-line,large,custom-image
+img: line_blue.png - text: 青 の線 + text: line red,custom,line_black.png,image,0.7427534461021423,color-line,large,custom-image
+img: line_blue.png - text: 青 の線 + text: line blue,custom,line_red.png,image,0.6884452104568481,color-line,large,custom-image
+img: line_blue.png - text: 青 の線 + text: line blue,custom,line_black.png,image,0.716345489025116,color-line,large,custom-image
+img: line_blue.png - text: 青 の線 + text: line black,custom,line_red.png,image,0.7361970543861389,color-line,large,custom-image
+img: line_blue.png - text: 青 の線 + text: line black,custom,line_black.png,image,0.7714601755142212,color-line,large,custom-image
+img: line_blue.png - text: 青 の線 + text: 赤 の線,custom,line_red.png,image,0.8857206702232361,color-line,large,custom-image
+img: line_blue.png - text: 青 の線 + text: 赤 の線,custom,line_black.png,image,0.907274603843689,color-line,large,custom-image
+img: line_blue.png - text: 青 の線 + text: 黒 の線,custom,line_red.png,image,0.8808826208114624,color-line,large,custom-image
+img: line_blue.png - text: 青 の線 + text: 黒 の線,custom,line_black.png,image,0.8950390815734863,color-line,large,custom-image
+img: line_blue.png - text: 黒 の線 + text: line red,custom,line_red.png,image,0.7646839618682861,color-line,large,custom-image
+img: line_blue.png - text: 黒 の線 + text: line red,custom,line_black.png,image,0.7483733296394348,color-line,large,custom-image
+img: line_blue.png - text: 黒 の線 + text: line blue,custom,line_red.png,image,0.6863676905632019,color-line,large,custom-image
+img: line_blue.png - text: 黒 の線 + text: line blue,custom,line_black.png,image,0.7189746499061584,color-line,large,custom-image
+img: line_blue.png - text: 黒 の線 + text: line black,custom,line_red.png,image,0.7352972030639648,color-line,large,custom-image
+img: line_blue.png - text: 黒 の線 + text: line black,custom,line_black.png,image,0.775476336479187,color-line,large,custom-image
+img: line_blue.png - text: 黒 の線 + text: 赤 の線,custom,line_red.png,image,0.8610691428184509,color-line,large,custom-image
+img: line_blue.png - text: 黒 の線 + text: 赤 の線,custom,line_black.png,image,0.888007640838623,color-line,large,custom-image
+img: line_blue.png - text: 黒 の線 + text: 青 の線,custom,line_red.png,image,0.8701833486557007,color-line,large,custom-image
+img: line_blue.png - text: 黒 の線 + text: 青 の線,custom,line_black.png,image,0.8962498307228088,color-line,large,custom-image
+img: line_black.png - text: line red + text: line blue,custom,line_red.png,image,0.7147558331489563,color-line,large,custom-image
+img: line_black.png - text: line red + text: line blue,custom,line_blue.png,image,0.8476510643959045,color-line,large,custom-image
+img: line_black.png - text: line red + text: line black,custom,line_red.png,image,0.7365692853927612,color-line,large,custom-image
+img: line_black.png - text: line red + text: line black,custom,line_blue.png,image,0.8144645094871521,color-line,large,custom-image
+img: line_black.png - text: line red + text: 赤 の線,custom,line_red.png,image,0.6410768628120422,color-line,large,custom-image
+img: line_black.png - text: line red + text: 赤 の線,custom,line_blue.png,image,0.7098914384841919,color-line,large,custom-image
+img: line_black.png - text: line red + text: 青 の線,custom,line_red.png,image,0.6300258636474609,color-line,large,custom-image
+img: line_black.png - text: line red + text: 青 の線,custom,line_blue.png,image,0.6986436247825623,color-line,large,custom-image
+img: line_black.png - text: line red + text: 黒 の線,custom,line_red.png,image,0.6453661322593689,color-line,large,custom-image
+img: line_black.png - text: line red + text: 黒 の線,custom,line_blue.png,image,0.7110224366188049,color-line,large,custom-image
+img: line_black.png - text: line blue + text: line red,custom,line_red.png,image,0.8244470953941345,color-line,large,custom-image
+img: line_black.png - text: line blue + text: line red,custom,line_blue.png,image,0.7558972239494324,color-line,large,custom-image
+img: line_black.png - text: line blue + text: line black,custom,line_red.png,image,0.7897298336029053,color-line,large,custom-image
+img: line_black.png - text: line blue + text: line black,custom,line_blue.png,image,0.7701162099838257,color-line,large,custom-image
+img: line_black.png - text: line blue + text: 赤 の線,custom,line_red.png,image,0.6742702722549438,color-line,large,custom-image
+img: line_black.png - text: line blue + text: 赤 の線,custom,line_blue.png,image,0.6505327820777893,color-line,large,custom-image
+img: line_black.png - text: line blue + text: 青 の線,custom,line_red.png,image,0.6654796600341797,color-line,large,custom-image
+img: line_black.png - text: line blue + text: 青 の線,custom,line_blue.png,image,0.6412613391876221,color-line,large,custom-image
+img: line_black.png - text: line blue + text: 黒 の線,custom,line_red.png,image,0.6786888241767883,color-line,large,custom-image
+img: line_black.png - text: line blue + text: 黒 の線,custom,line_blue.png,image,0.6510475277900696,color-line,large,custom-image
+img: line_black.png - text: line black + text: line red,custom,line_red.png,image,0.8337347507476807,color-line,large,custom-image
+img: line_black.png - text: line black + text: line red,custom,line_blue.png,image,0.8181564807891846,color-line,large,custom-image
+img: line_black.png - text: line black + text: line blue,custom,line_red.png,image,0.7743920683860779,color-line,large,custom-image
+img: line_black.png - text: line black + text: line blue,custom,line_blue.png,image,0.8667423129081726,color-line,large,custom-image
+img: line_black.png - text: line black + text: 赤 の線,custom,line_red.png,image,0.6780886650085449,color-line,large,custom-image
+img: line_black.png - text: line black + text: 赤 の線,custom,line_blue.png,image,0.7043715119361877,color-line,large,custom-image
+img: line_black.png - text: line black + text: 青 の線,custom,line_red.png,image,0.6615421772003174,color-line,large,custom-image
+img: line_black.png - text: line black + text: 青 の線,custom,line_blue.png,image,0.687317967414856,color-line,large,custom-image
+img: line_black.png - text: line black + text: 黒 の線,custom,line_red.png,image,0.6762195229530334,color-line,large,custom-image
+img: line_black.png - text: line black + text: 黒 の線,custom,line_blue.png,image,0.698567271232605,color-line,large,custom-image
+img: line_black.png - text: 赤 の線 + text: line red,custom,line_red.png,image,0.7437494993209839,color-line,large,custom-image
+img: line_black.png - text: 赤 の線 + text: line red,custom,line_blue.png,image,0.7363119125366211,color-line,large,custom-image
+img: line_black.png - text: 赤 の線 + text: line blue,custom,line_red.png,image,0.6822031736373901,color-line,large,custom-image
+img: line_black.png - text: 赤 の線 + text: line blue,custom,line_blue.png,image,0.7618237137794495,color-line,large,custom-image
+img: line_black.png - text: 赤 の線 + text: line black,custom,line_red.png,image,0.711374819278717,color-line,large,custom-image
+img: line_black.png - text: 赤 の線 + text: line black,custom,line_blue.png,image,0.7447627186775208,color-line,large,custom-image
+img: line_black.png - text: 赤 の線 + text: 青 の線,custom,line_red.png,image,0.8643137216567993,color-line,large,custom-image
+img: line_black.png - text: 赤 の線 + text: 青 の線,custom,line_blue.png,image,0.9018867015838623,color-line,large,custom-image
+img: line_black.png - text: 赤 の線 + text: 黒 の線,custom,line_red.png,image,0.8504026532173157,color-line,large,custom-image
+img: line_black.png - text: 赤 の線 + text: 黒 の線,custom,line_blue.png,image,0.8827226161956787,color-line,large,custom-image
+img: line_black.png - text: 青 の線 + text: line red,custom,line_red.png,image,0.7423114776611328,color-line,large,custom-image
+img: line_black.png - text: 青 の線 + text: line red,custom,line_blue.png,image,0.735343873500824,color-line,large,custom-image
+img: line_black.png - text: 青 の線 + text: line blue,custom,line_red.png,image,0.6840273141860962,color-line,large,custom-image
+img: line_black.png - text: 青 の線 + text: line blue,custom,line_blue.png,image,0.762843132019043,color-line,large,custom-image
+img: line_black.png - text: 青 の線 + text: line black,custom,line_red.png,image,0.7069526314735413,color-line,large,custom-image
+img: line_black.png - text: 青 の線 + text: line black,custom,line_blue.png,image,0.7399242520332336,color-line,large,custom-image
+img: line_black.png - text: 青 の線 + text: 赤 の線,custom,line_red.png,image,0.8662823438644409,color-line,large,custom-image
+img: line_black.png - text: 青 の線 + text: 赤 の線,custom,line_blue.png,image,0.9034894108772278,color-line,large,custom-image
+img: line_black.png - text: 青 の線 + text: 黒 の線,custom,line_red.png,image,0.8636044263839722,color-line,large,custom-image
+img: line_black.png - text: 青 の線 + text: 黒 の線,custom,line_blue.png,image,0.8962828516960144,color-line,large,custom-image
+img: line_black.png - text: 黒 の線 + text: line red,custom,line_red.png,image,0.742587685585022,color-line,large,custom-image
+img: line_black.png - text: 黒 の線 + text: line red,custom,line_blue.png,image,0.7387482523918152,color-line,large,custom-image
+img: line_black.png - text: 黒 の線 + text: line blue,custom,line_red.png,image,0.681320071220398,color-line,large,custom-image
+img: line_black.png - text: 黒 の線 + text: line blue,custom,line_blue.png,image,0.7641696333885193,color-line,large,custom-image
+img: line_black.png - text: 黒 の線 + text: line black,custom,line_red.png,image,0.7048937678337097,color-line,large,custom-image
+img: line_black.png - text: 黒 の線 + text: line black,custom,line_blue.png,image,0.7413312792778015,color-line,large,custom-image
+img: line_black.png - text: 黒 の線 + text: 赤 の線,custom,line_red.png,image,0.8388892412185669,color-line,large,custom-image
+img: line_black.png - text: 黒 の線 + text: 赤 の線,custom,line_blue.png,image,0.8794816732406616,color-line,large,custom-image
+img: line_black.png - text: 黒 の線 + text: 青 の線,custom,line_red.png,image,0.8489834070205688,color-line,large,custom-image
+img: line_black.png - text: 黒 の線 + text: 青 の線,custom,line_blue.png,image,0.8903680443763733,color-line,large,custom-image

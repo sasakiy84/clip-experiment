@@ -1,0 +1,631 @@
+name_a,type_a,name_b,type_b,similarity,tag,model,a_b_type
+text color red text red,text,text_color-red_text-red.png,image,0.2844657301902771,color-text,large,text-image
+text color red text red,text,text_color-red_text-blue.png,image,0.258190393447876,color-text,large,text-image
+text color red text red,text,text_color-red_text-black.png,image,0.2530807554721832,color-text,large,text-image
+text color red text red,text,text_color-red_text-赤.png,image,0.17851296067237854,color-text,large,text-image
+text color red text red,text,text_color-red_text-青.png,image,0.1721154749393463,color-text,large,text-image
+text color red text red,text,text_color-red_text-黒.png,image,0.17686942219734192,color-text,large,text-image
+text color red text red,text,text_color-blue_text-red.png,image,0.2614224851131439,color-text,large,text-image
+text color red text red,text,text_color-blue_text-blue.png,image,0.201437845826149,color-text,large,text-image
+text color red text red,text,text_color-blue_text-black.png,image,0.19368237257003784,color-text,large,text-image
+text color red text red,text,text_color-blue_text-赤.png,image,0.14057761430740356,color-text,large,text-image
+text color red text red,text,text_color-blue_text-青.png,image,0.14308980107307434,color-text,large,text-image
+text color red text red,text,text_color-blue_text-黒.png,image,0.13441576063632965,color-text,large,text-image
+text color red text red,text,text_color-black_text-red.png,image,0.2541602551937103,color-text,large,text-image
+text color red text red,text,text_color-black_text-blue.png,image,0.2045602649450302,color-text,large,text-image
+text color red text red,text,text_color-black_text-black.png,image,0.18750232458114624,color-text,large,text-image
+text color red text red,text,text_color-black_text-赤.png,image,0.13232553005218506,color-text,large,text-image
+text color red text red,text,text_color-black_text-青.png,image,0.13934952020645142,color-text,large,text-image
+text color red text red,text,text_color-black_text-黒.png,image,0.1273486167192459,color-text,large,text-image
+text color red text blue,text,text_color-red_text-red.png,image,0.2825769782066345,color-text,large,text-image
+text color red text blue,text,text_color-red_text-blue.png,image,0.2853637635707855,color-text,large,text-image
+text color red text blue,text,text_color-red_text-black.png,image,0.2532570958137512,color-text,large,text-image
+text color red text blue,text,text_color-red_text-赤.png,image,0.17926613986492157,color-text,large,text-image
+text color red text blue,text,text_color-red_text-青.png,image,0.17429117858409882,color-text,large,text-image
+text color red text blue,text,text_color-red_text-黒.png,image,0.17469459772109985,color-text,large,text-image
+text color red text blue,text,text_color-blue_text-red.png,image,0.2642638385295868,color-text,large,text-image
+text color red text blue,text,text_color-blue_text-blue.png,image,0.24001771211624146,color-text,large,text-image
+text color red text blue,text,text_color-blue_text-black.png,image,0.20763534307479858,color-text,large,text-image
+text color red text blue,text,text_color-blue_text-赤.png,image,0.1611359566450119,color-text,large,text-image
+text color red text blue,text,text_color-blue_text-青.png,image,0.1621924191713333,color-text,large,text-image
+text color red text blue,text,text_color-blue_text-黒.png,image,0.1506171077489853,color-text,large,text-image
+text color red text blue,text,text_color-black_text-red.png,image,0.24667468667030334,color-text,large,text-image
+text color red text blue,text,text_color-black_text-blue.png,image,0.23712219297885895,color-text,large,text-image
+text color red text blue,text,text_color-black_text-black.png,image,0.18296803534030914,color-text,large,text-image
+text color red text blue,text,text_color-black_text-赤.png,image,0.13718381524085999,color-text,large,text-image
+text color red text blue,text,text_color-black_text-青.png,image,0.1442473828792572,color-text,large,text-image
+text color red text blue,text,text_color-black_text-黒.png,image,0.12999030947685242,color-text,large,text-image
+text color red text black,text,text_color-red_text-red.png,image,0.28012362122535706,color-text,large,text-image
+text color red text black,text,text_color-red_text-blue.png,image,0.2601439952850342,color-text,large,text-image
+text color red text black,text,text_color-red_text-black.png,image,0.28518742322921753,color-text,large,text-image
+text color red text black,text,text_color-red_text-赤.png,image,0.1734461933374405,color-text,large,text-image
+text color red text black,text,text_color-red_text-青.png,image,0.16715332865715027,color-text,large,text-image
+text color red text black,text,text_color-red_text-黒.png,image,0.17153578996658325,color-text,large,text-image
+text color red text black,text,text_color-blue_text-red.png,image,0.25278404355049133,color-text,large,text-image
+text color red text black,text,text_color-blue_text-blue.png,image,0.2000948190689087,color-text,large,text-image
+text color red text black,text,text_color-blue_text-black.png,image,0.22853882610797882,color-text,large,text-image
+text color red text black,text,text_color-blue_text-赤.png,image,0.13709312677383423,color-text,large,text-image
+text color red text black,text,text_color-blue_text-青.png,image,0.13844242691993713,color-text,large,text-image
+text color red text black,text,text_color-blue_text-黒.png,image,0.13043154776096344,color-text,large,text-image
+text color red text black,text,text_color-black_text-red.png,image,0.25055280327796936,color-text,large,text-image
+text color red text black,text,text_color-black_text-blue.png,image,0.2058008909225464,color-text,large,text-image
+text color red text black,text,text_color-black_text-black.png,image,0.21807163953781128,color-text,large,text-image
+text color red text black,text,text_color-black_text-赤.png,image,0.1311989575624466,color-text,large,text-image
+text color red text black,text,text_color-black_text-青.png,image,0.1394193023443222,color-text,large,text-image
+text color red text black,text,text_color-black_text-黒.png,image,0.12782683968544006,color-text,large,text-image
+text color red text 赤,text,text_color-red_text-red.png,image,0.2682146728038788,color-text,large,text-image
+text color red text 赤,text,text_color-red_text-blue.png,image,0.25015151500701904,color-text,large,text-image
+text color red text 赤,text,text_color-red_text-black.png,image,0.24393905699253082,color-text,large,text-image
+text color red text 赤,text,text_color-red_text-赤.png,image,0.19817696511745453,color-text,large,text-image
+text color red text 赤,text,text_color-red_text-青.png,image,0.20039014518260956,color-text,large,text-image
+text color red text 赤,text,text_color-red_text-黒.png,image,0.2090751826763153,color-text,large,text-image
+text color red text 赤,text,text_color-blue_text-red.png,image,0.2701817452907562,color-text,large,text-image
+text color red text 赤,text,text_color-blue_text-blue.png,image,0.23240727186203003,color-text,large,text-image
+text color red text 赤,text,text_color-blue_text-black.png,image,0.22370311617851257,color-text,large,text-image
+text color red text 赤,text,text_color-blue_text-赤.png,image,0.1815083622932434,color-text,large,text-image
+text color red text 赤,text,text_color-blue_text-青.png,image,0.18452592194080353,color-text,large,text-image
+text color red text 赤,text,text_color-blue_text-黒.png,image,0.18277065455913544,color-text,large,text-image
+text color red text 赤,text,text_color-black_text-red.png,image,0.22427405416965485,color-text,large,text-image
+text color red text 赤,text,text_color-black_text-blue.png,image,0.20116889476776123,color-text,large,text-image
+text color red text 赤,text,text_color-black_text-black.png,image,0.18352974951267242,color-text,large,text-image
+text color red text 赤,text,text_color-black_text-赤.png,image,0.160519540309906,color-text,large,text-image
+text color red text 赤,text,text_color-black_text-青.png,image,0.1714066118001938,color-text,large,text-image
+text color red text 赤,text,text_color-black_text-黒.png,image,0.16631998121738434,color-text,large,text-image
+text color red text 青,text,text_color-red_text-red.png,image,0.26478955149650574,color-text,large,text-image
+text color red text 青,text,text_color-red_text-blue.png,image,0.24755805730819702,color-text,large,text-image
+text color red text 青,text,text_color-red_text-black.png,image,0.2412015050649643,color-text,large,text-image
+text color red text 青,text,text_color-red_text-赤.png,image,0.21264682710170746,color-text,large,text-image
+text color red text 青,text,text_color-red_text-青.png,image,0.21147744357585907,color-text,large,text-image
+text color red text 青,text,text_color-red_text-黒.png,image,0.2180645912885666,color-text,large,text-image
+text color red text 青,text,text_color-blue_text-red.png,image,0.26110222935676575,color-text,large,text-image
+text color red text 青,text,text_color-blue_text-blue.png,image,0.2208196073770523,color-text,large,text-image
+text color red text 青,text,text_color-blue_text-black.png,image,0.21297283470630646,color-text,large,text-image
+text color red text 青,text,text_color-blue_text-赤.png,image,0.19179223477840424,color-text,large,text-image
+text color red text 青,text,text_color-blue_text-青.png,image,0.19208036363124847,color-text,large,text-image
+text color red text 青,text,text_color-blue_text-黒.png,image,0.1880401223897934,color-text,large,text-image
+text color red text 青,text,text_color-black_text-red.png,image,0.22129788994789124,color-text,large,text-image
+text color red text 青,text,text_color-black_text-blue.png,image,0.1964377462863922,color-text,large,text-image
+text color red text 青,text,text_color-black_text-black.png,image,0.1755511313676834,color-text,large,text-image
+text color red text 青,text,text_color-black_text-赤.png,image,0.17516304552555084,color-text,large,text-image
+text color red text 青,text,text_color-black_text-青.png,image,0.1832979917526245,color-text,large,text-image
+text color red text 青,text,text_color-black_text-黒.png,image,0.17506805062294006,color-text,large,text-image
+text color red text 黒,text,text_color-red_text-red.png,image,0.26795077323913574,color-text,large,text-image
+text color red text 黒,text,text_color-red_text-blue.png,image,0.2502949833869934,color-text,large,text-image
+text color red text 黒,text,text_color-red_text-black.png,image,0.2484016716480255,color-text,large,text-image
+text color red text 黒,text,text_color-red_text-赤.png,image,0.2113499492406845,color-text,large,text-image
+text color red text 黒,text,text_color-red_text-青.png,image,0.20989926159381866,color-text,large,text-image
+text color red text 黒,text,text_color-red_text-黒.png,image,0.2199692577123642,color-text,large,text-image
+text color red text 黒,text,text_color-blue_text-red.png,image,0.26939862966537476,color-text,large,text-image
+text color red text 黒,text,text_color-blue_text-blue.png,image,0.22518059611320496,color-text,large,text-image
+text color red text 黒,text,text_color-blue_text-black.png,image,0.22189636528491974,color-text,large,text-image
+text color red text 黒,text,text_color-blue_text-赤.png,image,0.1843814104795456,color-text,large,text-image
+text color red text 黒,text,text_color-blue_text-青.png,image,0.18665973842144012,color-text,large,text-image
+text color red text 黒,text,text_color-blue_text-黒.png,image,0.18303996324539185,color-text,large,text-image
+text color red text 黒,text,text_color-black_text-red.png,image,0.22131066024303436,color-text,large,text-image
+text color red text 黒,text,text_color-black_text-blue.png,image,0.19355131685733795,color-text,large,text-image
+text color red text 黒,text,text_color-black_text-black.png,image,0.17658911645412445,color-text,large,text-image
+text color red text 黒,text,text_color-black_text-赤.png,image,0.1658978909254074,color-text,large,text-image
+text color red text 黒,text,text_color-black_text-青.png,image,0.17540493607521057,color-text,large,text-image
+text color red text 黒,text,text_color-black_text-黒.png,image,0.16774488985538483,color-text,large,text-image
+text color blue text red,text,text_color-red_text-red.png,image,0.27864205837249756,color-text,large,text-image
+text color blue text red,text,text_color-red_text-blue.png,image,0.30027106404304504,color-text,large,text-image
+text color blue text red,text,text_color-red_text-black.png,image,0.2601412534713745,color-text,large,text-image
+text color blue text red,text,text_color-red_text-赤.png,image,0.18111413717269897,color-text,large,text-image
+text color blue text red,text,text_color-red_text-青.png,image,0.17773021757602692,color-text,large,text-image
+text color blue text red,text,text_color-red_text-黒.png,image,0.17911376059055328,color-text,large,text-image
+text color blue text red,text,text_color-blue_text-red.png,image,0.26331856846809387,color-text,large,text-image
+text color blue text red,text,text_color-blue_text-blue.png,image,0.2622160315513611,color-text,large,text-image
+text color blue text red,text,text_color-blue_text-black.png,image,0.22202837467193604,color-text,large,text-image
+text color blue text red,text,text_color-blue_text-赤.png,image,0.17455410957336426,color-text,large,text-image
+text color blue text red,text,text_color-blue_text-青.png,image,0.1761651188135147,color-text,large,text-image
+text color blue text red,text,text_color-blue_text-黒.png,image,0.16555121541023254,color-text,large,text-image
+text color blue text red,text,text_color-black_text-red.png,image,0.2408459484577179,color-text,large,text-image
+text color blue text red,text,text_color-black_text-blue.png,image,0.2542975842952728,color-text,large,text-image
+text color blue text red,text,text_color-black_text-black.png,image,0.1875225007534027,color-text,large,text-image
+text color blue text red,text,text_color-black_text-赤.png,image,0.14492347836494446,color-text,large,text-image
+text color blue text red,text,text_color-black_text-青.png,image,0.1514219492673874,color-text,large,text-image
+text color blue text red,text,text_color-black_text-黒.png,image,0.14053088426589966,color-text,large,text-image
+text color blue text blue,text,text_color-red_text-red.png,image,0.23290853202342987,color-text,large,text-image
+text color blue text blue,text,text_color-red_text-blue.png,image,0.2794692814350128,color-text,large,text-image
+text color blue text blue,text,text_color-red_text-black.png,image,0.2355838567018509,color-text,large,text-image
+text color blue text blue,text,text_color-red_text-赤.png,image,0.16119197010993958,color-text,large,text-image
+text color blue text blue,text,text_color-red_text-青.png,image,0.1578790694475174,color-text,large,text-image
+text color blue text blue,text,text_color-red_text-黒.png,image,0.1567782610654831,color-text,large,text-image
+text color blue text blue,text,text_color-blue_text-red.png,image,0.23286151885986328,color-text,large,text-image
+text color blue text blue,text,text_color-blue_text-blue.png,image,0.2702541649341583,color-text,large,text-image
+text color blue text blue,text,text_color-blue_text-black.png,image,0.22974467277526855,color-text,large,text-image
+text color blue text blue,text,text_color-blue_text-赤.png,image,0.1801241636276245,color-text,large,text-image
+text color blue text blue,text,text_color-blue_text-青.png,image,0.1792517900466919,color-text,large,text-image
+text color blue text blue,text,text_color-blue_text-黒.png,image,0.16822406649589539,color-text,large,text-image
+text color blue text blue,text,text_color-black_text-red.png,image,0.20844940841197968,color-text,large,text-image
+text color blue text blue,text,text_color-black_text-blue.png,image,0.2611292004585266,color-text,large,text-image
+text color blue text blue,text,text_color-black_text-black.png,image,0.19049610197544098,color-text,large,text-image
+text color blue text blue,text,text_color-black_text-赤.png,image,0.1453278660774231,color-text,large,text-image
+text color blue text blue,text,text_color-black_text-青.png,image,0.15053103864192963,color-text,large,text-image
+text color blue text blue,text,text_color-black_text-黒.png,image,0.14005649089813232,color-text,large,text-image
+text color blue text black,text,text_color-red_text-red.png,image,0.2348802387714386,color-text,large,text-image
+text color blue text black,text,text_color-red_text-blue.png,image,0.27888572216033936,color-text,large,text-image
+text color blue text black,text,text_color-red_text-black.png,image,0.2689551115036011,color-text,large,text-image
+text color blue text black,text,text_color-red_text-赤.png,image,0.15976865589618683,color-text,large,text-image
+text color blue text black,text,text_color-red_text-青.png,image,0.15722507238388062,color-text,large,text-image
+text color blue text black,text,text_color-red_text-黒.png,image,0.15642905235290527,color-text,large,text-image
+text color blue text black,text,text_color-blue_text-red.png,image,0.2310730367898941,color-text,large,text-image
+text color blue text black,text,text_color-blue_text-blue.png,image,0.26723212003707886,color-text,large,text-image
+text color blue text black,text,text_color-blue_text-black.png,image,0.2657473385334015,color-text,large,text-image
+text color blue text black,text,text_color-blue_text-赤.png,image,0.17618674039840698,color-text,large,text-image
+text color blue text black,text,text_color-blue_text-青.png,image,0.1757356971502304,color-text,large,text-image
+text color blue text black,text,text_color-blue_text-黒.png,image,0.1658371537923813,color-text,large,text-image
+text color blue text black,text,text_color-black_text-red.png,image,0.21422746777534485,color-text,large,text-image
+text color blue text black,text,text_color-black_text-blue.png,image,0.2637671232223511,color-text,large,text-image
+text color blue text black,text,text_color-black_text-black.png,image,0.22709238529205322,color-text,large,text-image
+text color blue text black,text,text_color-black_text-赤.png,image,0.14506755769252777,color-text,large,text-image
+text color blue text black,text,text_color-black_text-青.png,image,0.15209431946277618,color-text,large,text-image
+text color blue text black,text,text_color-black_text-黒.png,image,0.14274285733699799,color-text,large,text-image
+text color blue text 赤,text,text_color-red_text-red.png,image,0.2237233966588974,color-text,large,text-image
+text color blue text 赤,text,text_color-red_text-blue.png,image,0.2654378414154053,color-text,large,text-image
+text color blue text 赤,text,text_color-red_text-black.png,image,0.23021039366722107,color-text,large,text-image
+text color blue text 赤,text,text_color-red_text-赤.png,image,0.1755620539188385,color-text,large,text-image
+text color blue text 赤,text,text_color-red_text-青.png,image,0.18000438809394836,color-text,large,text-image
+text color blue text 赤,text,text_color-red_text-黒.png,image,0.18243584036827087,color-text,large,text-image
+text color blue text 赤,text,text_color-blue_text-red.png,image,0.23691469430923462,color-text,large,text-image
+text color blue text 赤,text,text_color-blue_text-blue.png,image,0.2753896415233612,color-text,large,text-image
+text color blue text 赤,text,text_color-blue_text-black.png,image,0.24378442764282227,color-text,large,text-image
+text color blue text 赤,text,text_color-blue_text-赤.png,image,0.19855909049510956,color-text,large,text-image
+text color blue text 赤,text,text_color-blue_text-青.png,image,0.2005710005760193,color-text,large,text-image
+text color blue text 赤,text,text_color-blue_text-黒.png,image,0.19526249170303345,color-text,large,text-image
+text color blue text 赤,text,text_color-black_text-red.png,image,0.1919620782136917,color-text,large,text-image
+text color blue text 赤,text,text_color-black_text-blue.png,image,0.24758458137512207,color-text,large,text-image
+text color blue text 赤,text,text_color-black_text-black.png,image,0.18947231769561768,color-text,large,text-image
+text color blue text 赤,text,text_color-black_text-赤.png,image,0.16190899908542633,color-text,large,text-image
+text color blue text 赤,text,text_color-black_text-青.png,image,0.17275457084178925,color-text,large,text-image
+text color blue text 赤,text,text_color-black_text-黒.png,image,0.16535310447216034,color-text,large,text-image
+text color blue text 青,text,text_color-red_text-red.png,image,0.21255183219909668,color-text,large,text-image
+text color blue text 青,text,text_color-red_text-blue.png,image,0.25832656025886536,color-text,large,text-image
+text color blue text 青,text,text_color-red_text-black.png,image,0.22199366986751556,color-text,large,text-image
+text color blue text 青,text,text_color-red_text-赤.png,image,0.18924199044704437,color-text,large,text-image
+text color blue text 青,text,text_color-red_text-青.png,image,0.19110821187496185,color-text,large,text-image
+text color blue text 青,text,text_color-red_text-黒.png,image,0.1921001672744751,color-text,large,text-image
+text color blue text 青,text,text_color-blue_text-red.png,image,0.221515491604805,color-text,large,text-image
+text color blue text 青,text,text_color-blue_text-blue.png,image,0.2612007260322571,color-text,large,text-image
+text color blue text 青,text,text_color-blue_text-black.png,image,0.22975702583789825,color-text,large,text-image
+text color blue text 青,text,text_color-blue_text-赤.png,image,0.21277685463428497,color-text,large,text-image
+text color blue text 青,text,text_color-blue_text-青.png,image,0.21209141612052917,color-text,large,text-image
+text color blue text 青,text,text_color-blue_text-黒.png,image,0.20656995475292206,color-text,large,text-image
+text color blue text 青,text,text_color-black_text-red.png,image,0.18143735826015472,color-text,large,text-image
+text color blue text 青,text,text_color-black_text-blue.png,image,0.2422867864370346,color-text,large,text-image
+text color blue text 青,text,text_color-black_text-black.png,image,0.18114274740219116,color-text,large,text-image
+text color blue text 青,text,text_color-black_text-赤.png,image,0.1783662885427475,color-text,large,text-image
+text color blue text 青,text,text_color-black_text-青.png,image,0.1866932511329651,color-text,large,text-image
+text color blue text 青,text,text_color-black_text-黒.png,image,0.17819443345069885,color-text,large,text-image
+text color blue text 黒,text,text_color-red_text-red.png,image,0.2088019847869873,color-text,large,text-image
+text color blue text 黒,text,text_color-red_text-blue.png,image,0.2618289291858673,color-text,large,text-image
+text color blue text 黒,text,text_color-red_text-black.png,image,0.22685803472995758,color-text,large,text-image
+text color blue text 黒,text,text_color-red_text-赤.png,image,0.18725743889808655,color-text,large,text-image
+text color blue text 黒,text,text_color-red_text-青.png,image,0.18921838700771332,color-text,large,text-image
+text color blue text 黒,text,text_color-red_text-黒.png,image,0.19258634746074677,color-text,large,text-image
+text color blue text 黒,text,text_color-blue_text-red.png,image,0.2249915599822998,color-text,large,text-image
+text color blue text 黒,text,text_color-blue_text-blue.png,image,0.2725812792778015,color-text,large,text-image
+text color blue text 黒,text,text_color-blue_text-black.png,image,0.24381320178508759,color-text,large,text-image
+text color blue text 黒,text,text_color-blue_text-赤.png,image,0.21222683787345886,color-text,large,text-image
+text color blue text 黒,text,text_color-blue_text-青.png,image,0.21313248574733734,color-text,large,text-image
+text color blue text 黒,text,text_color-blue_text-黒.png,image,0.20704352855682373,color-text,large,text-image
+text color blue text 黒,text,text_color-black_text-red.png,image,0.17809197306632996,color-text,large,text-image
+text color blue text 黒,text,text_color-black_text-blue.png,image,0.2483019083738327,color-text,large,text-image
+text color blue text 黒,text,text_color-black_text-black.png,image,0.18567903339862823,color-text,large,text-image
+text color blue text 黒,text,text_color-black_text-赤.png,image,0.1736306995153427,color-text,large,text-image
+text color blue text 黒,text,text_color-black_text-青.png,image,0.18228712677955627,color-text,large,text-image
+text color blue text 黒,text,text_color-black_text-黒.png,image,0.1732543557882309,color-text,large,text-image
+text color black text red,text,text_color-red_text-red.png,image,0.278207391500473,color-text,large,text-image
+text color black text red,text,text_color-red_text-blue.png,image,0.2652392089366913,color-text,large,text-image
+text color black text red,text,text_color-red_text-black.png,image,0.29731112718582153,color-text,large,text-image
+text color black text red,text,text_color-red_text-赤.png,image,0.19122818112373352,color-text,large,text-image
+text color black text red,text,text_color-red_text-青.png,image,0.18774744868278503,color-text,large,text-image
+text color black text red,text,text_color-red_text-黒.png,image,0.1941033899784088,color-text,large,text-image
+text color black text red,text,text_color-blue_text-red.png,image,0.2543131709098816,color-text,large,text-image
+text color black text red,text,text_color-blue_text-blue.png,image,0.21119719743728638,color-text,large,text-image
+text color black text red,text,text_color-blue_text-black.png,image,0.24726630747318268,color-text,large,text-image
+text color black text red,text,text_color-blue_text-赤.png,image,0.15838158130645752,color-text,large,text-image
+text color black text red,text,text_color-blue_text-青.png,image,0.16137374937534332,color-text,large,text-image
+text color black text red,text,text_color-blue_text-黒.png,image,0.15605197846889496,color-text,large,text-image
+text color black text red,text,text_color-black_text-red.png,image,0.2515880763530731,color-text,large,text-image
+text color black text red,text,text_color-black_text-blue.png,image,0.21428535878658295,color-text,large,text-image
+text color black text red,text,text_color-black_text-black.png,image,0.23254446685314178,color-text,large,text-image
+text color black text red,text,text_color-black_text-赤.png,image,0.15231288969516754,color-text,large,text-image
+text color black text red,text,text_color-black_text-青.png,image,0.16211095452308655,color-text,large,text-image
+text color black text red,text,text_color-black_text-黒.png,image,0.15416429936885834,color-text,large,text-image
+text color black text blue,text,text_color-red_text-red.png,image,0.22765204310417175,color-text,large,text-image
+text color black text blue,text,text_color-red_text-blue.png,image,0.272278368473053,color-text,large,text-image
+text color black text blue,text,text_color-red_text-black.png,image,0.2621921896934509,color-text,large,text-image
+text color black text blue,text,text_color-red_text-赤.png,image,0.1673230528831482,color-text,large,text-image
+text color black text blue,text,text_color-red_text-青.png,image,0.16635127365589142,color-text,large,text-image
+text color black text blue,text,text_color-red_text-黒.png,image,0.16701103746891022,color-text,large,text-image
+text color black text blue,text,text_color-blue_text-red.png,image,0.2289099395275116,color-text,large,text-image
+text color black text blue,text,text_color-blue_text-blue.png,image,0.26480036973953247,color-text,large,text-image
+text color black text blue,text,text_color-blue_text-black.png,image,0.2659207582473755,color-text,large,text-image
+text color black text blue,text,text_color-blue_text-赤.png,image,0.18627722561359406,color-text,large,text-image
+text color black text blue,text,text_color-blue_text-青.png,image,0.18581430613994598,color-text,large,text-image
+text color black text blue,text,text_color-blue_text-黒.png,image,0.17729412019252777,color-text,large,text-image
+text color black text blue,text,text_color-black_text-red.png,image,0.2142806053161621,color-text,large,text-image
+text color black text blue,text,text_color-black_text-blue.png,image,0.26132890582084656,color-text,large,text-image
+text color black text blue,text,text_color-black_text-black.png,image,0.2273900806903839,color-text,large,text-image
+text color black text blue,text,text_color-black_text-赤.png,image,0.15388962626457214,color-text,large,text-image
+text color black text blue,text,text_color-black_text-青.png,image,0.1620531976222992,color-text,large,text-image
+text color black text blue,text,text_color-black_text-黒.png,image,0.1537124514579773,color-text,large,text-image
+text color black text black,text,text_color-red_text-red.png,image,0.22930419445037842,color-text,large,text-image
+text color black text black,text,text_color-red_text-blue.png,image,0.2409951090812683,color-text,large,text-image
+text color black text black,text,text_color-red_text-black.png,image,0.279153972864151,color-text,large,text-image
+text color black text black,text,text_color-red_text-赤.png,image,0.1702018529176712,color-text,large,text-image
+text color black text black,text,text_color-red_text-青.png,image,0.16931773722171783,color-text,large,text-image
+text color black text black,text,text_color-red_text-黒.png,image,0.17286476492881775,color-text,large,text-image
+text color black text black,text,text_color-blue_text-red.png,image,0.2178926020860672,color-text,large,text-image
+text color black text black,text,text_color-blue_text-blue.png,image,0.22297582030296326,color-text,large,text-image
+text color black text black,text,text_color-blue_text-black.png,image,0.26940202713012695,color-text,large,text-image
+text color black text black,text,text_color-blue_text-赤.png,image,0.16847537457942963,color-text,large,text-image
+text color black text black,text,text_color-blue_text-青.png,image,0.16900353133678436,color-text,large,text-image
+text color black text black,text,text_color-blue_text-黒.png,image,0.16457688808441162,color-text,large,text-image
+text color black text black,text,text_color-black_text-red.png,image,0.2148510217666626,color-text,large,text-image
+text color black text black,text,text_color-black_text-blue.png,image,0.22176000475883484,color-text,large,text-image
+text color black text black,text,text_color-black_text-black.png,image,0.24899329245090485,color-text,large,text-image
+text color black text black,text,text_color-black_text-赤.png,image,0.1567041277885437,color-text,large,text-image
+text color black text black,text,text_color-black_text-青.png,image,0.16732698678970337,color-text,large,text-image
+text color black text black,text,text_color-black_text-黒.png,image,0.16326768696308136,color-text,large,text-image
+text color black text 赤,text,text_color-red_text-red.png,image,0.21547667682170868,color-text,large,text-image
+text color black text 赤,text,text_color-red_text-blue.png,image,0.23424774408340454,color-text,large,text-image
+text color black text 赤,text,text_color-red_text-black.png,image,0.26692646741867065,color-text,large,text-image
+text color black text 赤,text,text_color-red_text-赤.png,image,0.2051876038312912,color-text,large,text-image
+text color black text 赤,text,text_color-red_text-青.png,image,0.20850323140621185,color-text,large,text-image
+text color black text 赤,text,text_color-red_text-黒.png,image,0.21393489837646484,color-text,large,text-image
+text color black text 赤,text,text_color-blue_text-red.png,image,0.22157642245292664,color-text,large,text-image
+text color black text 赤,text,text_color-blue_text-blue.png,image,0.23773260414600372,color-text,large,text-image
+text color black text 赤,text,text_color-blue_text-black.png,image,0.2762735188007355,color-text,large,text-image
+text color black text 赤,text,text_color-blue_text-赤.png,image,0.20780311524868011,color-text,large,text-image
+text color black text 赤,text,text_color-blue_text-青.png,image,0.20868214964866638,color-text,large,text-image
+text color black text 赤,text,text_color-blue_text-黒.png,image,0.20790617167949677,color-text,large,text-image
+text color black text 赤,text,text_color-black_text-red.png,image,0.19483207166194916,color-text,large,text-image
+text color black text 赤,text,text_color-black_text-blue.png,image,0.22043098509311676,color-text,large,text-image
+text color black text 赤,text,text_color-black_text-black.png,image,0.2354840189218521,color-text,large,text-image
+text color black text 赤,text,text_color-black_text-赤.png,image,0.18250875174999237,color-text,large,text-image
+text color black text 赤,text,text_color-black_text-青.png,image,0.196658194065094,color-text,large,text-image
+text color black text 赤,text,text_color-black_text-黒.png,image,0.19311587512493134,color-text,large,text-image
+text color black text 青,text,text_color-red_text-red.png,image,0.20302560925483704,color-text,large,text-image
+text color black text 青,text,text_color-red_text-blue.png,image,0.22372004389762878,color-text,large,text-image
+text color black text 青,text,text_color-red_text-black.png,image,0.25609782338142395,color-text,large,text-image
+text color black text 青,text,text_color-red_text-赤.png,image,0.19619175791740417,color-text,large,text-image
+text color black text 青,text,text_color-red_text-青.png,image,0.1976035088300705,color-text,large,text-image
+text color black text 青,text,text_color-red_text-黒.png,image,0.19980932772159576,color-text,large,text-image
+text color black text 青,text,text_color-blue_text-red.png,image,0.20502181351184845,color-text,large,text-image
+text color black text 青,text,text_color-blue_text-blue.png,image,0.22403115034103394,color-text,large,text-image
+text color black text 青,text,text_color-blue_text-black.png,image,0.2605523467063904,color-text,large,text-image
+text color black text 青,text,text_color-blue_text-赤.png,image,0.20010201632976532,color-text,large,text-image
+text color black text 青,text,text_color-blue_text-青.png,image,0.19897878170013428,color-text,large,text-image
+text color black text 青,text,text_color-blue_text-黒.png,image,0.19637930393218994,color-text,large,text-image
+text color black text 青,text,text_color-black_text-red.png,image,0.17832262814044952,color-text,large,text-image
+text color black text 青,text,text_color-black_text-blue.png,image,0.20868733525276184,color-text,large,text-image
+text color black text 青,text,text_color-black_text-black.png,image,0.22207868099212646,color-text,large,text-image
+text color black text 青,text,text_color-black_text-赤.png,image,0.1798502802848816,color-text,large,text-image
+text color black text 青,text,text_color-black_text-青.png,image,0.19199499487876892,color-text,large,text-image
+text color black text 青,text,text_color-black_text-黒.png,image,0.18556199967861176,color-text,large,text-image
+text color black text 黒,text,text_color-red_text-red.png,image,0.19901835918426514,color-text,large,text-image
+text color black text 黒,text,text_color-red_text-blue.png,image,0.22060006856918335,color-text,large,text-image
+text color black text 黒,text,text_color-red_text-black.png,image,0.25444406270980835,color-text,large,text-image
+text color black text 黒,text,text_color-red_text-赤.png,image,0.1912463903427124,color-text,large,text-image
+text color black text 黒,text,text_color-red_text-青.png,image,0.1922948807477951,color-text,large,text-image
+text color black text 黒,text,text_color-red_text-黒.png,image,0.19664491713047028,color-text,large,text-image
+text color black text 黒,text,text_color-blue_text-red.png,image,0.20455536246299744,color-text,large,text-image
+text color black text 黒,text,text_color-blue_text-blue.png,image,0.22471018135547638,color-text,large,text-image
+text color black text 黒,text,text_color-blue_text-black.png,image,0.26369208097457886,color-text,large,text-image
+text color black text 黒,text,text_color-blue_text-赤.png,image,0.19261988997459412,color-text,large,text-image
+text color black text 黒,text,text_color-blue_text-青.png,image,0.1931561529636383,color-text,large,text-image
+text color black text 黒,text,text_color-blue_text-黒.png,image,0.19090472161769867,color-text,large,text-image
+text color black text 黒,text,text_color-black_text-red.png,image,0.17766915261745453,color-text,large,text-image
+text color black text 黒,text,text_color-black_text-blue.png,image,0.2076646089553833,color-text,large,text-image
+text color black text 黒,text,text_color-black_text-black.png,image,0.22579672932624817,color-text,large,text-image
+text color black text 黒,text,text_color-black_text-赤.png,image,0.17224246263504028,color-text,large,text-image
+text color black text 黒,text,text_color-black_text-青.png,image,0.1852245330810547,color-text,large,text-image
+text color black text 黒,text,text_color-black_text-黒.png,image,0.17930066585540771,color-text,large,text-image
+text color red text red,text,text color red text blue,text,0.9516816735267639,color-text,large,text-text
+text color red text red,text,text color red text black,text,0.9605565667152405,color-text,large,text-text
+text color red text red,text,text color red text 赤,text,0.8082788586616516,color-text,large,text-text
+text color red text red,text,text color red text 青,text,0.8232333660125732,color-text,large,text-text
+text color red text red,text,text color red text 黒,text,0.804668128490448,color-text,large,text-text
+text color red text red,text,text color blue text red,text,0.8917738795280457,color-text,large,text-text
+text color red text red,text,text color blue text blue,text,0.7900055050849915,color-text,large,text-text
+text color red text red,text,text color blue text black,text,0.7760564088821411,color-text,large,text-text
+text color red text red,text,text color blue text 赤,text,0.6786031723022461,color-text,large,text-text
+text color red text red,text,text color blue text 青,text,0.6644549369812012,color-text,large,text-text
+text color red text red,text,text color blue text 黒,text,0.6525941491127014,color-text,large,text-text
+text color red text red,text,text color black text red,text,0.9299847483634949,color-text,large,text-text
+text color red text red,text,text color black text blue,text,0.7676094174385071,color-text,large,text-text
+text color red text red,text,text color black text black,text,0.7924503087997437,color-text,large,text-text
+text color red text red,text,text color black text 赤,text,0.6982589364051819,color-text,large,text-text
+text color red text red,text,text color black text 青,text,0.6777790784835815,color-text,large,text-text
+text color red text red,text,text color black text 黒,text,0.6699179410934448,color-text,large,text-text
+text color red text blue,text,text color red text black,text,0.9186917543411255,color-text,large,text-text
+text color red text blue,text,text color red text 赤,text,0.7872498631477356,color-text,large,text-text
+text color red text blue,text,text color red text 青,text,0.8019977807998657,color-text,large,text-text
+text color red text blue,text,text color red text 黒,text,0.76749587059021,color-text,large,text-text
+text color red text blue,text,text color blue text red,text,0.96924889087677,color-text,large,text-text
+text color red text blue,text,text color blue text blue,text,0.8972430229187012,color-text,large,text-text
+text color red text blue,text,text color blue text black,text,0.8621127009391785,color-text,large,text-text
+text color red text blue,text,text color blue text 赤,text,0.7589706182479858,color-text,large,text-text
+text color red text blue,text,text color blue text 青,text,0.7527745962142944,color-text,large,text-text
+text color red text blue,text,text color blue text 黒,text,0.7426449060440063,color-text,large,text-text
+text color red text blue,text,text color black text red,text,0.8887955546379089,color-text,large,text-text
+text color red text blue,text,text color black text blue,text,0.8537507653236389,color-text,large,text-text
+text color red text blue,text,text color black text black,text,0.7883102893829346,color-text,large,text-text
+text color red text blue,text,text color black text 赤,text,0.7060455083847046,color-text,large,text-text
+text color red text blue,text,text color black text 青,text,0.6894537806510925,color-text,large,text-text
+text color red text blue,text,text color black text 黒,text,0.6740114092826843,color-text,large,text-text
+text color red text black,text,text color red text 赤,text,0.7802016139030457,color-text,large,text-text
+text color red text black,text,text color red text 青,text,0.7951693534851074,color-text,large,text-text
+text color red text black,text,text color red text 黒,text,0.7769953012466431,color-text,large,text-text
+text color red text black,text,text color blue text red,text,0.868801474571228,color-text,large,text-text
+text color red text black,text,text color blue text blue,text,0.7819648385047913,color-text,large,text-text
+text color red text black,text,text color blue text black,text,0.83222496509552,color-text,large,text-text
+text color red text black,text,text color blue text 赤,text,0.66881263256073,color-text,large,text-text
+text color red text black,text,text color blue text 青,text,0.6552554965019226,color-text,large,text-text
+text color red text black,text,text color blue text 黒,text,0.6480263471603394,color-text,large,text-text
+text color red text black,text,text color black text red,text,0.9731140732765198,color-text,large,text-text
+text color red text black,text,text color black text blue,text,0.8219588994979858,color-text,large,text-text
+text color red text black,text,text color black text black,text,0.8797451257705688,color-text,large,text-text
+text color red text black,text,text color black text 赤,text,0.745532214641571,color-text,large,text-text
+text color red text black,text,text color black text 青,text,0.7287091612815857,color-text,large,text-text
+text color red text black,text,text color black text 黒,text,0.7234528660774231,color-text,large,text-text
+text color red text 赤,text,text color red text 青,text,0.9715698957443237,color-text,large,text-text
+text color red text 赤,text,text color red text 黒,text,0.9487808346748352,color-text,large,text-text
+text color red text 赤,text,text color blue text red,text,0.7399102449417114,color-text,large,text-text
+text color red text 赤,text,text color blue text blue,text,0.6808042526245117,color-text,large,text-text
+text color red text 赤,text,text color blue text black,text,0.6654102206230164,color-text,large,text-text
+text color red text 赤,text,text color blue text 赤,text,0.8816877603530884,color-text,large,text-text
+text color red text 赤,text,text color blue text 青,text,0.8497287631034851,color-text,large,text-text
+text color red text 赤,text,text color blue text 黒,text,0.8291075229644775,color-text,large,text-text
+text color red text 赤,text,text color black text red,text,0.7628231048583984,color-text,large,text-text
+text color red text 赤,text,text color black text blue,text,0.6679826378822327,color-text,large,text-text
+text color red text 赤,text,text color black text black,text,0.6855856776237488,color-text,large,text-text
+text color red text 赤,text,text color black text 赤,text,0.8812845349311829,color-text,large,text-text
+text color red text 赤,text,text color black text 青,text,0.8581726551055908,color-text,large,text-text
+text color red text 赤,text,text color black text 黒,text,0.8337489366531372,color-text,large,text-text
+text color red text 青,text,text color red text 黒,text,0.972621738910675,color-text,large,text-text
+text color red text 青,text,text color blue text red,text,0.7461759448051453,color-text,large,text-text
+text color red text 青,text,text color blue text blue,text,0.6771414279937744,color-text,large,text-text
+text color red text 青,text,text color blue text black,text,0.6602319478988647,color-text,large,text-text
+text color red text 青,text,text color blue text 赤,text,0.8537967205047607,color-text,large,text-text
+text color red text 青,text,text color blue text 青,text,0.865442156791687,color-text,large,text-text
+text color red text 青,text,text color blue text 黒,text,0.8383941054344177,color-text,large,text-text
+text color red text 青,text,text color black text red,text,0.7700579762458801,color-text,large,text-text
+text color red text 青,text,text color black text blue,text,0.6617850065231323,color-text,large,text-text
+text color red text 青,text,text color black text black,text,0.6772679090499878,color-text,large,text-text
+text color red text 青,text,text color black text 赤,text,0.859406590461731,color-text,large,text-text
+text color red text 青,text,text color black text 青,text,0.8782699108123779,color-text,large,text-text
+text color red text 青,text,text color black text 黒,text,0.843222975730896,color-text,large,text-text
+text color red text 黒,text,text color blue text red,text,0.7067925930023193,color-text,large,text-text
+text color red text 黒,text,text color blue text blue,text,0.6220373511314392,color-text,large,text-text
+text color red text 黒,text,text color blue text black,text,0.6145085096359253,color-text,large,text-text
+text color red text 黒,text,text color blue text 赤,text,0.8035260438919067,color-text,large,text-text
+text color red text 黒,text,text color blue text 青,text,0.8069620728492737,color-text,large,text-text
+text color red text 黒,text,text color blue text 黒,text,0.8244096636772156,color-text,large,text-text
+text color red text 黒,text,text color black text red,text,0.7588695287704468,color-text,large,text-text
+text color red text 黒,text,text color black text blue,text,0.6245996952056885,color-text,large,text-text
+text color red text 黒,text,text color black text black,text,0.6455702781677246,color-text,large,text-text
+text color red text 黒,text,text color black text 赤,text,0.8359268307685852,color-text,large,text-text
+text color red text 黒,text,text color black text 青,text,0.8473342061042786,color-text,large,text-text
+text color red text 黒,text,text color black text 黒,text,0.8500633239746094,color-text,large,text-text
+text color blue text red,text,text color blue text blue,text,0.9514699578285217,color-text,large,text-text
+text color blue text red,text,text color blue text black,text,0.9153328537940979,color-text,large,text-text
+text color blue text red,text,text color blue text 赤,text,0.780856728553772,color-text,large,text-text
+text color blue text red,text,text color blue text 青,text,0.7730298042297363,color-text,large,text-text
+text color blue text red,text,text color blue text 黒,text,0.7699643969535828,color-text,large,text-text
+text color blue text red,text,text color black text red,text,0.8677525520324707,color-text,large,text-text
+text color blue text red,text,text color black text blue,text,0.8984951376914978,color-text,large,text-text
+text color blue text red,text,text color black text black,text,0.8049969673156738,color-text,large,text-text
+text color blue text red,text,text color black text 赤,text,0.7067344784736633,color-text,large,text-text
+text color blue text red,text,text color black text 青,text,0.6809788346290588,color-text,large,text-text
+text color blue text red,text,text color black text 黒,text,0.6713951826095581,color-text,large,text-text
+text color blue text blue,text,text color blue text black,text,0.9627072215080261,color-text,large,text-text
+text color blue text blue,text,text color blue text 赤,text,0.8239932656288147,color-text,large,text-text
+text color blue text blue,text,text color blue text 青,text,0.817940354347229,color-text,large,text-text
+text color blue text blue,text,text color blue text 黒,text,0.8175403475761414,color-text,large,text-text
+text color blue text blue,text,text color black text red,text,0.7843325138092041,color-text,large,text-text
+text color blue text blue,text,text color black text blue,text,0.9434913396835327,color-text,large,text-text
+text color blue text blue,text,text color black text black,text,0.8213748335838318,color-text,large,text-text
+text color blue text blue,text,text color black text 赤,text,0.7251715064048767,color-text,large,text-text
+text color blue text blue,text,text color black text 青,text,0.7038556337356567,color-text,large,text-text
+text color blue text blue,text,text color black text 黒,text,0.6903042793273926,color-text,large,text-text
+text color blue text black,text,text color blue text 赤,text,0.7927058935165405,color-text,large,text-text
+text color blue text black,text,text color blue text 青,text,0.783797025680542,color-text,large,text-text
+text color blue text black,text,text color blue text 黒,text,0.7941961884498596,color-text,large,text-text
+text color blue text black,text,text color black text red,text,0.8455191254615784,color-text,large,text-text
+text color blue text black,text,text color black text blue,text,0.9816734194755554,color-text,large,text-text
+text color blue text black,text,text color black text black,text,0.9149528741836548,color-text,large,text-text
+text color blue text black,text,text color black text 赤,text,0.7749907970428467,color-text,large,text-text
+text color blue text black,text,text color black text 青,text,0.7537599205970764,color-text,large,text-text
+text color blue text black,text,text color black text 黒,text,0.7511183023452759,color-text,large,text-text
+text color blue text 赤,text,text color blue text 青,text,0.9729759693145752,color-text,large,text-text
+text color blue text 赤,text,text color blue text 黒,text,0.9559638500213623,color-text,large,text-text
+text color blue text 赤,text,text color black text red,text,0.6672726273536682,color-text,large,text-text
+text color blue text 赤,text,text color black text blue,text,0.7839345932006836,color-text,large,text-text
+text color blue text 赤,text,text color black text black,text,0.7038393020629883,color-text,large,text-text
+text color blue text 赤,text,text color black text 赤,text,0.8962264060974121,color-text,large,text-text
+text color blue text 赤,text,text color black text 青,text,0.8776130676269531,color-text,large,text-text
+text color blue text 赤,text,text color black text 黒,text,0.844745934009552,color-text,large,text-text
+text color blue text 青,text,text color blue text 黒,text,0.97176593542099,color-text,large,text-text
+text color blue text 青,text,text color black text red,text,0.6527990698814392,color-text,large,text-text
+text color blue text 青,text,text color black text blue,text,0.7770271897315979,color-text,large,text-text
+text color blue text 青,text,text color black text black,text,0.6882753372192383,color-text,large,text-text
+text color blue text 青,text,text color black text 赤,text,0.8763105273246765,color-text,large,text-text
+text color blue text 青,text,text color black text 青,text,0.8982943296432495,color-text,large,text-text
+text color blue text 青,text,text color black text 黒,text,0.8552433848381042,color-text,large,text-text
+text color blue text 黒,text,text color black text red,text,0.6571961045265198,color-text,large,text-text
+text color blue text 黒,text,text color black text blue,text,0.7961811423301697,color-text,large,text-text
+text color blue text 黒,text,text color black text black,text,0.696617066860199,color-text,large,text-text
+text color blue text 黒,text,text color black text 赤,text,0.8783367276191711,color-text,large,text-text
+text color blue text 黒,text,text color black text 青,text,0.8921669125556946,color-text,large,text-text
+text color blue text 黒,text,text color black text 黒,text,0.8905736804008484,color-text,large,text-text
+text color black text red,text,text color black text blue,text,0.857056200504303,color-text,large,text-text
+text color black text red,text,text color black text black,text,0.9227938652038574,color-text,large,text-text
+text color black text red,text,text color black text 赤,text,0.7730234265327454,color-text,large,text-text
+text color black text red,text,text color black text 青,text,0.7467631101608276,color-text,large,text-text
+text color black text red,text,text color black text 黒,text,0.7557870745658875,color-text,large,text-text
+text color black text blue,text,text color black text black,text,0.9252912402153015,color-text,large,text-text
+text color black text blue,text,text color black text 赤,text,0.7824653387069702,color-text,large,text-text
+text color black text blue,text,text color black text 青,text,0.7586190700531006,color-text,large,text-text
+text color black text blue,text,text color black text 黒,text,0.7651492357254028,color-text,large,text-text
+text color black text black,text,text color black text 赤,text,0.8239916563034058,color-text,large,text-text
+text color black text black,text,text color black text 青,text,0.8006806969642639,color-text,large,text-text
+text color black text black,text,text color black text 黒,text,0.8102788925170898,color-text,large,text-text
+text color black text 赤,text,text color black text 青,text,0.968989372253418,color-text,large,text-text
+text color black text 赤,text,text color black text 黒,text,0.9580591320991516,color-text,large,text-text
+text color black text 青,text,text color black text 黒,text,0.9760454893112183,color-text,large,text-text
+text_color-red_text-red.png,image,text_color-red_text-blue.png,image,0.967462956905365,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-red_text-black.png,image,0.9408528804779053,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-red_text-赤.png,image,0.7716221213340759,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-red_text-青.png,image,0.7607336044311523,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-red_text-黒.png,image,0.7485705018043518,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-blue_text-red.png,image,0.9530602693557739,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-blue_text-blue.png,image,0.9119035005569458,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-blue_text-black.png,image,0.8587851524353027,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-blue_text-赤.png,image,0.7632761001586914,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-blue_text-青.png,image,0.762939989566803,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-blue_text-黒.png,image,0.7360838055610657,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-black_text-red.png,image,0.918438196182251,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-black_text-blue.png,image,0.9010297060012817,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-black_text-black.png,image,0.8881371021270752,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-black_text-赤.png,image,0.7327244281768799,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-black_text-青.png,image,0.7468158006668091,color-text,large,image-image
+text_color-red_text-red.png,image,text_color-black_text-黒.png,image,0.7069002389907837,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-red_text-black.png,image,0.9572056531906128,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-red_text-赤.png,image,0.7579805254936218,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-red_text-青.png,image,0.7459853887557983,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-red_text-黒.png,image,0.7345424294471741,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-blue_text-red.png,image,0.9262470006942749,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-blue_text-blue.png,image,0.9415727257728577,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-blue_text-black.png,image,0.8784422874450684,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-blue_text-赤.png,image,0.7629493474960327,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-blue_text-青.png,image,0.7614471316337585,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-blue_text-黒.png,image,0.7342442870140076,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-black_text-red.png,image,0.8811252117156982,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-black_text-blue.png,image,0.9234715104103088,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-black_text-black.png,image,0.8869935274124146,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-black_text-赤.png,image,0.721010684967041,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-black_text-青.png,image,0.7372771501541138,color-text,large,image-image
+text_color-red_text-blue.png,image,text_color-black_text-黒.png,image,0.6961532831192017,color-text,large,image-image
+text_color-red_text-black.png,image,text_color-red_text-赤.png,image,0.7589333057403564,color-text,large,image-image
+text_color-red_text-black.png,image,text_color-red_text-青.png,image,0.7450151443481445,color-text,large,image-image
+text_color-red_text-black.png,image,text_color-red_text-黒.png,image,0.7305198907852173,color-text,large,image-image
+text_color-red_text-black.png,image,text_color-blue_text-red.png,image,0.9040483236312866,color-text,large,image-image
+text_color-red_text-black.png,image,text_color-blue_text-blue.png,image,0.9047865271568298,color-text,large,image-image
+text_color-red_text-black.png,image,text_color-blue_text-black.png,image,0.9226956963539124,color-text,large,image-image
+text_color-red_text-black.png,image,text_color-blue_text-赤.png,image,0.7556517720222473,color-text,large,image-image
+text_color-red_text-black.png,image,text_color-blue_text-青.png,image,0.7506721019744873,color-text,large,image-image
+text_color-red_text-black.png,image,text_color-blue_text-黒.png,image,0.7218996286392212,color-text,large,image-image
+text_color-red_text-black.png,image,text_color-black_text-red.png,image,0.853689432144165,color-text,large,image-image
+text_color-red_text-black.png,image,text_color-black_text-blue.png,image,0.8750704526901245,color-text,large,image-image
+text_color-red_text-black.png,image,text_color-black_text-black.png,image,0.91078120470047,color-text,large,image-image
+text_color-red_text-black.png,image,text_color-black_text-赤.png,image,0.7186155319213867,color-text,large,image-image
+text_color-red_text-black.png,image,text_color-black_text-青.png,image,0.7317783236503601,color-text,large,image-image
+text_color-red_text-black.png,image,text_color-black_text-黒.png,image,0.6883705854415894,color-text,large,image-image
+text_color-red_text-赤.png,image,text_color-red_text-青.png,image,0.9871563911437988,color-text,large,image-image
+text_color-red_text-赤.png,image,text_color-red_text-黒.png,image,0.9654413461685181,color-text,large,image-image
+text_color-red_text-赤.png,image,text_color-blue_text-red.png,image,0.7506591081619263,color-text,large,image-image
+text_color-red_text-赤.png,image,text_color-blue_text-blue.png,image,0.7326374053955078,color-text,large,image-image
+text_color-red_text-赤.png,image,text_color-blue_text-black.png,image,0.7132719159126282,color-text,large,image-image
+text_color-red_text-赤.png,image,text_color-blue_text-赤.png,image,0.9805434346199036,color-text,large,image-image
+text_color-red_text-赤.png,image,text_color-blue_text-青.png,image,0.9711863994598389,color-text,large,image-image
+text_color-red_text-赤.png,image,text_color-blue_text-黒.png,image,0.9455749988555908,color-text,large,image-image
+text_color-red_text-赤.png,image,text_color-black_text-red.png,image,0.7399136424064636,color-text,large,image-image
+text_color-red_text-赤.png,image,text_color-black_text-blue.png,image,0.7358576655387878,color-text,large,image-image
+text_color-red_text-赤.png,image,text_color-black_text-black.png,image,0.7455775737762451,color-text,large,image-image
+text_color-red_text-赤.png,image,text_color-black_text-赤.png,image,0.9649096131324768,color-text,large,image-image
+text_color-red_text-赤.png,image,text_color-black_text-青.png,image,0.9613465070724487,color-text,large,image-image
+text_color-red_text-赤.png,image,text_color-black_text-黒.png,image,0.9287973046302795,color-text,large,image-image
+text_color-red_text-青.png,image,text_color-red_text-黒.png,image,0.9746347069740295,color-text,large,image-image
+text_color-red_text-青.png,image,text_color-blue_text-red.png,image,0.7419530749320984,color-text,large,image-image
+text_color-red_text-青.png,image,text_color-blue_text-blue.png,image,0.7231713533401489,color-text,large,image-image
+text_color-red_text-青.png,image,text_color-blue_text-black.png,image,0.7029444575309753,color-text,large,image-image
+text_color-red_text-青.png,image,text_color-blue_text-赤.png,image,0.9711125493049622,color-text,large,image-image
+text_color-red_text-青.png,image,text_color-blue_text-青.png,image,0.9813904166221619,color-text,large,image-image
+text_color-red_text-青.png,image,text_color-blue_text-黒.png,image,0.9520105719566345,color-text,large,image-image
+text_color-red_text-青.png,image,text_color-black_text-red.png,image,0.7311480045318604,color-text,large,image-image
+text_color-red_text-青.png,image,text_color-black_text-blue.png,image,0.7263054251670837,color-text,large,image-image
+text_color-red_text-青.png,image,text_color-black_text-black.png,image,0.7316404581069946,color-text,large,image-image
+text_color-red_text-青.png,image,text_color-black_text-赤.png,image,0.9543560743331909,color-text,large,image-image
+text_color-red_text-青.png,image,text_color-black_text-青.png,image,0.9686188101768494,color-text,large,image-image
+text_color-red_text-青.png,image,text_color-black_text-黒.png,image,0.9335169792175293,color-text,large,image-image
+text_color-red_text-黒.png,image,text_color-blue_text-red.png,image,0.7348717451095581,color-text,large,image-image
+text_color-red_text-黒.png,image,text_color-blue_text-blue.png,image,0.7138954401016235,color-text,large,image-image
+text_color-red_text-黒.png,image,text_color-blue_text-black.png,image,0.6913275122642517,color-text,large,image-image
+text_color-red_text-黒.png,image,text_color-blue_text-赤.png,image,0.9503488540649414,color-text,large,image-image
+text_color-red_text-黒.png,image,text_color-blue_text-青.png,image,0.9621255993843079,color-text,large,image-image
+text_color-red_text-黒.png,image,text_color-blue_text-黒.png,image,0.9777854084968567,color-text,large,image-image
+text_color-red_text-黒.png,image,text_color-black_text-red.png,image,0.7201902270317078,color-text,large,image-image
+text_color-red_text-黒.png,image,text_color-black_text-blue.png,image,0.7120694518089294,color-text,large,image-image
+text_color-red_text-黒.png,image,text_color-black_text-black.png,image,0.719254195690155,color-text,large,image-image
+text_color-red_text-黒.png,image,text_color-black_text-赤.png,image,0.9330930113792419,color-text,large,image-image
+text_color-red_text-黒.png,image,text_color-black_text-青.png,image,0.9433936476707458,color-text,large,image-image
+text_color-red_text-黒.png,image,text_color-black_text-黒.png,image,0.9646366834640503,color-text,large,image-image
+text_color-blue_text-red.png,image,text_color-blue_text-blue.png,image,0.9585237503051758,color-text,large,image-image
+text_color-blue_text-red.png,image,text_color-blue_text-black.png,image,0.9165834188461304,color-text,large,image-image
+text_color-blue_text-red.png,image,text_color-blue_text-赤.png,image,0.7547844052314758,color-text,large,image-image
+text_color-blue_text-red.png,image,text_color-blue_text-青.png,image,0.7562845349311829,color-text,large,image-image
+text_color-blue_text-red.png,image,text_color-blue_text-黒.png,image,0.7322194576263428,color-text,large,image-image
+text_color-blue_text-red.png,image,text_color-black_text-red.png,image,0.9251796007156372,color-text,large,image-image
+text_color-blue_text-red.png,image,text_color-black_text-blue.png,image,0.9032086730003357,color-text,large,image-image
+text_color-blue_text-red.png,image,text_color-black_text-black.png,image,0.8947111964225769,color-text,large,image-image
+text_color-blue_text-red.png,image,text_color-black_text-赤.png,image,0.7249831557273865,color-text,large,image-image
+text_color-blue_text-red.png,image,text_color-black_text-青.png,image,0.7358652949333191,color-text,large,image-image
+text_color-blue_text-red.png,image,text_color-black_text-黒.png,image,0.6967955827713013,color-text,large,image-image
+text_color-blue_text-blue.png,image,text_color-blue_text-black.png,image,0.944027841091156,color-text,large,image-image
+text_color-blue_text-blue.png,image,text_color-blue_text-赤.png,image,0.7541435956954956,color-text,large,image-image
+text_color-blue_text-blue.png,image,text_color-blue_text-青.png,image,0.7539745569229126,color-text,large,image-image
+text_color-blue_text-blue.png,image,text_color-blue_text-黒.png,image,0.7269054055213928,color-text,large,image-image
+text_color-blue_text-blue.png,image,text_color-black_text-red.png,image,0.8704925179481506,color-text,large,image-image
+text_color-blue_text-blue.png,image,text_color-black_text-blue.png,image,0.9171419739723206,color-text,large,image-image
+text_color-blue_text-blue.png,image,text_color-black_text-black.png,image,0.8833379149436951,color-text,large,image-image
+text_color-blue_text-blue.png,image,text_color-black_text-赤.png,image,0.7099965214729309,color-text,large,image-image
+text_color-blue_text-blue.png,image,text_color-black_text-青.png,image,0.7224283814430237,color-text,large,image-image
+text_color-blue_text-blue.png,image,text_color-black_text-黒.png,image,0.6817812323570251,color-text,large,image-image
+text_color-blue_text-black.png,image,text_color-blue_text-赤.png,image,0.7274088263511658,color-text,large,image-image
+text_color-blue_text-black.png,image,text_color-blue_text-青.png,image,0.7247529029846191,color-text,large,image-image
+text_color-blue_text-black.png,image,text_color-blue_text-黒.png,image,0.697405219078064,color-text,large,image-image
+text_color-blue_text-black.png,image,text_color-black_text-red.png,image,0.817771315574646,color-text,large,image-image
+text_color-blue_text-black.png,image,text_color-black_text-blue.png,image,0.8477858901023865,color-text,large,image-image
+text_color-blue_text-black.png,image,text_color-black_text-black.png,image,0.8908381462097168,color-text,large,image-image
+text_color-blue_text-black.png,image,text_color-black_text-赤.png,image,0.68906569480896,color-text,large,image-image
+text_color-blue_text-black.png,image,text_color-black_text-青.png,image,0.6990176439285278,color-text,large,image-image
+text_color-blue_text-black.png,image,text_color-black_text-黒.png,image,0.6575378775596619,color-text,large,image-image
+text_color-blue_text-赤.png,image,text_color-blue_text-青.png,image,0.9857237339019775,color-text,large,image-image
+text_color-blue_text-赤.png,image,text_color-blue_text-黒.png,image,0.962429940700531,color-text,large,image-image
+text_color-blue_text-赤.png,image,text_color-black_text-red.png,image,0.7402548789978027,color-text,large,image-image
+text_color-blue_text-赤.png,image,text_color-black_text-blue.png,image,0.7543697357177734,color-text,large,image-image
+text_color-blue_text-赤.png,image,text_color-black_text-black.png,image,0.7527604699134827,color-text,large,image-image
+text_color-blue_text-赤.png,image,text_color-black_text-赤.png,image,0.9717437624931335,color-text,large,image-image
+text_color-blue_text-赤.png,image,text_color-black_text-青.png,image,0.9662266373634338,color-text,large,image-image
+text_color-blue_text-赤.png,image,text_color-black_text-黒.png,image,0.934753954410553,color-text,large,image-image
+text_color-blue_text-青.png,image,text_color-blue_text-黒.png,image,0.9710745215415955,color-text,large,image-image
+text_color-blue_text-青.png,image,text_color-black_text-red.png,image,0.7413925528526306,color-text,large,image-image
+text_color-blue_text-青.png,image,text_color-black_text-blue.png,image,0.7525284886360168,color-text,large,image-image
+text_color-blue_text-青.png,image,text_color-black_text-black.png,image,0.7489155530929565,color-text,large,image-image
+text_color-blue_text-青.png,image,text_color-black_text-赤.png,image,0.9575061202049255,color-text,large,image-image
+text_color-blue_text-青.png,image,text_color-black_text-青.png,image,0.9703203439712524,color-text,large,image-image
+text_color-blue_text-青.png,image,text_color-black_text-黒.png,image,0.9375287294387817,color-text,large,image-image
+text_color-blue_text-黒.png,image,text_color-black_text-red.png,image,0.7176008224487305,color-text,large,image-image
+text_color-blue_text-黒.png,image,text_color-black_text-blue.png,image,0.7267152070999146,color-text,large,image-image
+text_color-blue_text-黒.png,image,text_color-black_text-black.png,image,0.7242394685745239,color-text,large,image-image
+text_color-blue_text-黒.png,image,text_color-black_text-赤.png,image,0.9343282580375671,color-text,large,image-image
+text_color-blue_text-黒.png,image,text_color-black_text-青.png,image,0.9403772354125977,color-text,large,image-image
+text_color-blue_text-黒.png,image,text_color-black_text-黒.png,image,0.9688376784324646,color-text,large,image-image
+text_color-black_text-red.png,image,text_color-black_text-blue.png,image,0.9499801993370056,color-text,large,image-image
+text_color-black_text-red.png,image,text_color-black_text-black.png,image,0.936943769454956,color-text,large,image-image
+text_color-black_text-red.png,image,text_color-black_text-赤.png,image,0.7290012240409851,color-text,large,image-image
+text_color-black_text-red.png,image,text_color-black_text-青.png,image,0.7398920059204102,color-text,large,image-image
+text_color-black_text-red.png,image,text_color-black_text-黒.png,image,0.6997179388999939,color-text,large,image-image
+text_color-black_text-blue.png,image,text_color-black_text-black.png,image,0.9452817440032959,color-text,large,image-image
+text_color-black_text-blue.png,image,text_color-black_text-赤.png,image,0.7251290678977966,color-text,large,image-image
+text_color-black_text-blue.png,image,text_color-black_text-青.png,image,0.7397987246513367,color-text,large,image-image
+text_color-black_text-blue.png,image,text_color-black_text-黒.png,image,0.6947305202484131,color-text,large,image-image
+text_color-black_text-black.png,image,text_color-black_text-赤.png,image,0.7365036606788635,color-text,large,image-image
+text_color-black_text-black.png,image,text_color-black_text-青.png,image,0.7464540600776672,color-text,large,image-image
+text_color-black_text-black.png,image,text_color-black_text-黒.png,image,0.7036365270614624,color-text,large,image-image
+text_color-black_text-赤.png,image,text_color-black_text-青.png,image,0.9830293655395508,color-text,large,image-image
+text_color-black_text-赤.png,image,text_color-black_text-黒.png,image,0.946040689945221,color-text,large,image-image
+text_color-black_text-青.png,image,text_color-black_text-黒.png,image,0.9544710516929626,color-text,large,image-image

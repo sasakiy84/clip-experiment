@@ -1,0 +1,92 @@
+name_a,type_a,name_b,type_b,similarity,tag,model,a_b_type
+y = x,text,y=x.png,image,0.2635912299156189,graph,base,text-image
+y = x,text,y=x^2.png,image,0.2694103717803955,graph,base,text-image
+y = x,text,y=sin(x).png,image,0.26048189401626587,graph,base,text-image
+y = x,text,y=log(x).png,image,0.2577199339866638,graph,base,text-image
+y = x,text,y=softmax(x).png,image,0.2580491006374359,graph,base,text-image
+y = x^2,text,y=x.png,image,0.26930445432662964,graph,base,text-image
+y = x^2,text,y=x^2.png,image,0.2730278968811035,graph,base,text-image
+y = x^2,text,y=sin(x).png,image,0.26667678356170654,graph,base,text-image
+y = x^2,text,y=log(x).png,image,0.26123183965682983,graph,base,text-image
+y = x^2,text,y=softmax(x).png,image,0.2614847421646118,graph,base,text-image
+y = sin(x),text,y=x.png,image,0.2677621841430664,graph,base,text-image
+y = sin(x),text,y=x^2.png,image,0.27939125895500183,graph,base,text-image
+y = sin(x),text,y=sin(x).png,image,0.2630254924297333,graph,base,text-image
+y = sin(x),text,y=log(x).png,image,0.260231614112854,graph,base,text-image
+y = sin(x),text,y=softmax(x).png,image,0.2606836259365082,graph,base,text-image
+y = log(x),text,y=x.png,image,0.27698832750320435,graph,base,text-image
+y = log(x),text,y=x^2.png,image,0.2837706506252289,graph,base,text-image
+y = log(x),text,y=sin(x).png,image,0.27514636516571045,graph,base,text-image
+y = log(x),text,y=log(x).png,image,0.2715406119823456,graph,base,text-image
+y = log(x),text,y=softmax(x).png,image,0.2712424099445343,graph,base,text-image
+y = softmax(x),text,y=x.png,image,0.2876072824001312,graph,base,text-image
+y = softmax(x),text,y=x^2.png,image,0.3004942834377289,graph,base,text-image
+y = softmax(x),text,y=sin(x).png,image,0.29492318630218506,graph,base,text-image
+y = softmax(x),text,y=log(x).png,image,0.2921314835548401,graph,base,text-image
+y = softmax(x),text,y=softmax(x).png,image,0.2812575399875641,graph,base,text-image
+graph,text,y=x.png,image,0.2956780791282654,graph,base,text-image
+graph,text,y=x^2.png,image,0.2918451726436615,graph,base,text-image
+graph,text,y=sin(x).png,image,0.28130683302879333,graph,base,text-image
+graph,text,y=log(x).png,image,0.285978764295578,graph,base,text-image
+graph,text,y=softmax(x).png,image,0.2942390739917755,graph,base,text-image
+グラフ,text,y=x.png,image,0.21746625006198883,graph,base,text-image
+グラフ,text,y=x^2.png,image,0.21316953003406525,graph,base,text-image
+グラフ,text,y=sin(x).png,image,0.21307624876499176,graph,base,text-image
+グラフ,text,y=log(x).png,image,0.21445342898368835,graph,base,text-image
+グラフ,text,y=softmax(x).png,image,0.2184065580368042,graph,base,text-image
+apple,text,y=x.png,image,0.19010189175605774,graph,base,text-image
+apple,text,y=x^2.png,image,0.19304420053958893,graph,base,text-image
+apple,text,y=sin(x).png,image,0.1919567584991455,graph,base,text-image
+apple,text,y=log(x).png,image,0.19536441564559937,graph,base,text-image
+apple,text,y=softmax(x).png,image,0.19638504087924957,graph,base,text-image
+りんご,text,y=x.png,image,0.22193573415279388,graph,base,text-image
+りんご,text,y=x^2.png,image,0.21461904048919678,graph,base,text-image
+りんご,text,y=sin(x).png,image,0.21629256010055542,graph,base,text-image
+りんご,text,y=log(x).png,image,0.21598707139492035,graph,base,text-image
+りんご,text,y=softmax(x).png,image,0.22181002795696259,graph,base,text-image
+y = x,text,y = x^2,text,0.988246500492096,graph,base,text-text
+y = x,text,y = sin(x),text,0.9220215082168579,graph,base,text-text
+y = x,text,y = log(x),text,0.9171047806739807,graph,base,text-text
+y = x,text,y = softmax(x),text,0.8742673397064209,graph,base,text-text
+y = x,text,graph,text,0.8886100053787231,graph,base,text-text
+y = x,text,グラフ,text,0.8887968063354492,graph,base,text-text
+y = x,text,apple,text,0.8078033924102783,graph,base,text-text
+y = x,text,りんご,text,0.8872140049934387,graph,base,text-text
+y = x^2,text,y = sin(x),text,0.9264238476753235,graph,base,text-text
+y = x^2,text,y = log(x),text,0.9215379953384399,graph,base,text-text
+y = x^2,text,y = softmax(x),text,0.8851097226142883,graph,base,text-text
+y = x^2,text,graph,text,0.8776842355728149,graph,base,text-text
+y = x^2,text,グラフ,text,0.8762671947479248,graph,base,text-text
+y = x^2,text,apple,text,0.798346221446991,graph,base,text-text
+y = x^2,text,りんご,text,0.877017080783844,graph,base,text-text
+y = sin(x),text,y = log(x),text,0.9230970740318298,graph,base,text-text
+y = sin(x),text,y = softmax(x),text,0.9013225436210632,graph,base,text-text
+y = sin(x),text,graph,text,0.8729526996612549,graph,base,text-text
+y = sin(x),text,グラフ,text,0.8314806222915649,graph,base,text-text
+y = sin(x),text,apple,text,0.8227653503417969,graph,base,text-text
+y = sin(x),text,りんご,text,0.8252695202827454,graph,base,text-text
+y = log(x),text,y = softmax(x),text,0.8919629454612732,graph,base,text-text
+y = log(x),text,graph,text,0.8667693138122559,graph,base,text-text
+y = log(x),text,グラフ,text,0.825136661529541,graph,base,text-text
+y = log(x),text,apple,text,0.8069943785667419,graph,base,text-text
+y = log(x),text,りんご,text,0.8212018013000488,graph,base,text-text
+y = softmax(x),text,graph,text,0.8352638483047485,graph,base,text-text
+y = softmax(x),text,グラフ,text,0.8014208674430847,graph,base,text-text
+y = softmax(x),text,apple,text,0.797635555267334,graph,base,text-text
+y = softmax(x),text,りんご,text,0.7974321246147156,graph,base,text-text
+graph,text,グラフ,text,0.8499045968055725,graph,base,text-text
+graph,text,apple,text,0.8314836621284485,graph,base,text-text
+graph,text,りんご,text,0.8365644216537476,graph,base,text-text
+グラフ,text,apple,text,0.816454291343689,graph,base,text-text
+グラフ,text,りんご,text,0.9937159419059753,graph,base,text-text
+apple,text,りんご,text,0.8073434829711914,graph,base,text-text
+y=x.png,image,y=x^2.png,image,0.9239023923873901,graph,base,image-image
+y=x.png,image,y=sin(x).png,image,0.8925291895866394,graph,base,image-image
+y=x.png,image,y=log(x).png,image,0.9608682990074158,graph,base,image-image
+y=x.png,image,y=softmax(x).png,image,0.9405633211135864,graph,base,image-image
+y=x^2.png,image,y=sin(x).png,image,0.9512791037559509,graph,base,image-image
+y=x^2.png,image,y=log(x).png,image,0.9365593791007996,graph,base,image-image
+y=x^2.png,image,y=softmax(x).png,image,0.9242464900016785,graph,base,image-image
+y=sin(x).png,image,y=log(x).png,image,0.9125351905822754,graph,base,image-image
+y=sin(x).png,image,y=softmax(x).png,image,0.8939722180366516,graph,base,image-image
+y=log(x).png,image,y=softmax(x).png,image,0.9434394240379333,graph,base,image-image

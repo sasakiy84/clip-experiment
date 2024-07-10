@@ -1,0 +1,92 @@
+name_a,type_a,name_b,type_b,similarity,tag,model,a_b_type
+y = x,text,y=x.png,image,0.20839416980743408,graph,large,text-image
+y = x,text,y=x^2.png,image,0.20511898398399353,graph,large,text-image
+y = x,text,y=sin(x).png,image,0.20216743648052216,graph,large,text-image
+y = x,text,y=log(x).png,image,0.19606353342533112,graph,large,text-image
+y = x,text,y=softmax(x).png,image,0.2075018435716629,graph,large,text-image
+y = x^2,text,y=x.png,image,0.20400646328926086,graph,large,text-image
+y = x^2,text,y=x^2.png,image,0.20116236805915833,graph,large,text-image
+y = x^2,text,y=sin(x).png,image,0.19815519452095032,graph,large,text-image
+y = x^2,text,y=log(x).png,image,0.19260697066783905,graph,large,text-image
+y = x^2,text,y=softmax(x).png,image,0.20264475047588348,graph,large,text-image
+y = sin(x),text,y=x.png,image,0.21932561695575714,graph,large,text-image
+y = sin(x),text,y=x^2.png,image,0.22146834433078766,graph,large,text-image
+y = sin(x),text,y=sin(x).png,image,0.21999812126159668,graph,large,text-image
+y = sin(x),text,y=log(x).png,image,0.20367105305194855,graph,large,text-image
+y = sin(x),text,y=softmax(x).png,image,0.21805806457996368,graph,large,text-image
+y = log(x),text,y=x.png,image,0.23218291997909546,graph,large,text-image
+y = log(x),text,y=x^2.png,image,0.2272379994392395,graph,large,text-image
+y = log(x),text,y=sin(x).png,image,0.21818143129348755,graph,large,text-image
+y = log(x),text,y=log(x).png,image,0.22161751985549927,graph,large,text-image
+y = log(x),text,y=softmax(x).png,image,0.22965925931930542,graph,large,text-image
+y = softmax(x),text,y=x.png,image,0.25744542479515076,graph,large,text-image
+y = softmax(x),text,y=x^2.png,image,0.26092708110809326,graph,large,text-image
+y = softmax(x),text,y=sin(x).png,image,0.23937693238258362,graph,large,text-image
+y = softmax(x),text,y=log(x).png,image,0.25295233726501465,graph,large,text-image
+y = softmax(x),text,y=softmax(x).png,image,0.2607648968696594,graph,large,text-image
+graph,text,y=x.png,image,0.2222391664981842,graph,large,text-image
+graph,text,y=x^2.png,image,0.21290475130081177,graph,large,text-image
+graph,text,y=sin(x).png,image,0.21579861640930176,graph,large,text-image
+graph,text,y=log(x).png,image,0.2101593315601349,graph,large,text-image
+graph,text,y=softmax(x).png,image,0.22333325445652008,graph,large,text-image
+グラフ,text,y=x.png,image,0.1365116983652115,graph,large,text-image
+グラフ,text,y=x^2.png,image,0.14968322217464447,graph,large,text-image
+グラフ,text,y=sin(x).png,image,0.15759478509426117,graph,large,text-image
+グラフ,text,y=log(x).png,image,0.1385779082775116,graph,large,text-image
+グラフ,text,y=softmax(x).png,image,0.14708426594734192,graph,large,text-image
+apple,text,y=x.png,image,0.13685216009616852,graph,large,text-image
+apple,text,y=x^2.png,image,0.15780048072338104,graph,large,text-image
+apple,text,y=sin(x).png,image,0.14739990234375,graph,large,text-image
+apple,text,y=log(x).png,image,0.14346721768379211,graph,large,text-image
+apple,text,y=softmax(x).png,image,0.1548234522342682,graph,large,text-image
+りんご,text,y=x.png,image,0.1470952033996582,graph,large,text-image
+りんご,text,y=x^2.png,image,0.1544954776763916,graph,large,text-image
+りんご,text,y=sin(x).png,image,0.16129693388938904,graph,large,text-image
+りんご,text,y=log(x).png,image,0.14564578235149384,graph,large,text-image
+りんご,text,y=softmax(x).png,image,0.15833018720149994,graph,large,text-image
+y = x,text,y = x^2,text,0.9711024761199951,graph,large,text-text
+y = x,text,y = sin(x),text,0.8434997797012329,graph,large,text-text
+y = x,text,y = log(x),text,0.8371419906616211,graph,large,text-text
+y = x,text,y = softmax(x),text,0.7667393684387207,graph,large,text-text
+y = x,text,graph,text,0.7552655935287476,graph,large,text-text
+y = x,text,グラフ,text,0.6708558201789856,graph,large,text-text
+y = x,text,apple,text,0.6844592094421387,graph,large,text-text
+y = x,text,りんご,text,0.7380185723304749,graph,large,text-text
+y = x^2,text,y = sin(x),text,0.860346257686615,graph,large,text-text
+y = x^2,text,y = log(x),text,0.8699735999107361,graph,large,text-text
+y = x^2,text,y = softmax(x),text,0.7921594977378845,graph,large,text-text
+y = x^2,text,graph,text,0.7738516330718994,graph,large,text-text
+y = x^2,text,グラフ,text,0.7144593596458435,graph,large,text-text
+y = x^2,text,apple,text,0.7170393466949463,graph,large,text-text
+y = x^2,text,りんご,text,0.7844422459602356,graph,large,text-text
+y = sin(x),text,y = log(x),text,0.8915016651153564,graph,large,text-text
+y = sin(x),text,y = softmax(x),text,0.8311090469360352,graph,large,text-text
+y = sin(x),text,graph,text,0.7800933718681335,graph,large,text-text
+y = sin(x),text,グラフ,text,0.6069037318229675,graph,large,text-text
+y = sin(x),text,apple,text,0.7295706868171692,graph,large,text-text
+y = sin(x),text,りんご,text,0.6809720993041992,graph,large,text-text
+y = log(x),text,y = softmax(x),text,0.8373761177062988,graph,large,text-text
+y = log(x),text,graph,text,0.7950536012649536,graph,large,text-text
+y = log(x),text,グラフ,text,0.6411166191101074,graph,large,text-text
+y = log(x),text,apple,text,0.7375012040138245,graph,large,text-text
+y = log(x),text,りんご,text,0.696344256401062,graph,large,text-text
+y = softmax(x),text,graph,text,0.7448940277099609,graph,large,text-text
+y = softmax(x),text,グラフ,text,0.6232445240020752,graph,large,text-text
+y = softmax(x),text,apple,text,0.6915750503540039,graph,large,text-text
+y = softmax(x),text,りんご,text,0.6811351776123047,graph,large,text-text
+graph,text,グラフ,text,0.6117493510246277,graph,large,text-text
+graph,text,apple,text,0.7636064291000366,graph,large,text-text
+graph,text,りんご,text,0.6824362874031067,graph,large,text-text
+グラフ,text,apple,text,0.6419598460197449,graph,large,text-text
+グラフ,text,りんご,text,0.8959246277809143,graph,large,text-text
+apple,text,りんご,text,0.6989695429801941,graph,large,text-text
+y=x.png,image,y=x^2.png,image,0.915205717086792,graph,large,image-image
+y=x.png,image,y=sin(x).png,image,0.8775084018707275,graph,large,image-image
+y=x.png,image,y=log(x).png,image,0.9494348168373108,graph,large,image-image
+y=x.png,image,y=softmax(x).png,image,0.9380785226821899,graph,large,image-image
+y=x^2.png,image,y=sin(x).png,image,0.9395000338554382,graph,large,image-image
+y=x^2.png,image,y=log(x).png,image,0.9159499406814575,graph,large,image-image
+y=x^2.png,image,y=softmax(x).png,image,0.9446016550064087,graph,large,image-image
+y=sin(x).png,image,y=log(x).png,image,0.860248327255249,graph,large,image-image
+y=sin(x).png,image,y=softmax(x).png,image,0.9079541563987732,graph,large,image-image
+y=log(x).png,image,y=softmax(x).png,image,0.9446141123771667,graph,large,image-image

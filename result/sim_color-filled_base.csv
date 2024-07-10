@@ -1,0 +1,154 @@
+name_a,type_a,name_b,type_b,similarity,tag,model,a_b_type
+filled red,text,filled_red.png,image,0.2884293496608734,color-filled,base,text-image
+filled red,text,filled_blue.png,image,0.22856204211711884,color-filled,base,text-image
+filled red,text,filled_black.png,image,0.22886914014816284,color-filled,base,text-image
+filled red,text,filled_white.png,image,0.20517481863498688,color-filled,base,text-image
+filled red,text,filled_green.png,image,0.22758157551288605,color-filled,base,text-image
+filled red,text,filled_yellow.png,image,0.2197708785533905,color-filled,base,text-image
+filled blue,text,filled_red.png,image,0.22566929459571838,color-filled,base,text-image
+filled blue,text,filled_blue.png,image,0.2878178060054779,color-filled,base,text-image
+filled blue,text,filled_black.png,image,0.23193426430225372,color-filled,base,text-image
+filled blue,text,filled_white.png,image,0.21269431710243225,color-filled,base,text-image
+filled blue,text,filled_green.png,image,0.22270965576171875,color-filled,base,text-image
+filled blue,text,filled_yellow.png,image,0.22097249329090118,color-filled,base,text-image
+filled black,text,filled_red.png,image,0.2326495498418808,color-filled,base,text-image
+filled black,text,filled_blue.png,image,0.231287881731987,color-filled,base,text-image
+filled black,text,filled_black.png,image,0.25782716274261475,color-filled,base,text-image
+filled black,text,filled_white.png,image,0.21062134206295013,color-filled,base,text-image
+filled black,text,filled_green.png,image,0.23184524476528168,color-filled,base,text-image
+filled black,text,filled_yellow.png,image,0.2298385053873062,color-filled,base,text-image
+filled white,text,filled_red.png,image,0.236008420586586,color-filled,base,text-image
+filled white,text,filled_blue.png,image,0.23248335719108582,color-filled,base,text-image
+filled white,text,filled_black.png,image,0.24694089591503143,color-filled,base,text-image
+filled white,text,filled_white.png,image,0.22029940783977509,color-filled,base,text-image
+filled white,text,filled_green.png,image,0.22796210646629333,color-filled,base,text-image
+filled white,text,filled_yellow.png,image,0.22970396280288696,color-filled,base,text-image
+filled green,text,filled_red.png,image,0.21897020936012268,color-filled,base,text-image
+filled green,text,filled_blue.png,image,0.2247365415096283,color-filled,base,text-image
+filled green,text,filled_black.png,image,0.23024098575115204,color-filled,base,text-image
+filled green,text,filled_white.png,image,0.20895735919475555,color-filled,base,text-image
+filled green,text,filled_green.png,image,0.2845768332481384,color-filled,base,text-image
+filled green,text,filled_yellow.png,image,0.21937327086925507,color-filled,base,text-image
+filled yellow,text,filled_red.png,image,0.24299868941307068,color-filled,base,text-image
+filled yellow,text,filled_blue.png,image,0.23726996779441833,color-filled,base,text-image
+filled yellow,text,filled_black.png,image,0.23330502212047577,color-filled,base,text-image
+filled yellow,text,filled_white.png,image,0.21408675611019135,color-filled,base,text-image
+filled yellow,text,filled_green.png,image,0.24414804577827454,color-filled,base,text-image
+filled yellow,text,filled_yellow.png,image,0.307841032743454,color-filled,base,text-image
+赤 の背景,text,filled_red.png,image,0.20632237195968628,color-filled,base,text-image
+赤 の背景,text,filled_blue.png,image,0.2163013219833374,color-filled,base,text-image
+赤 の背景,text,filled_black.png,image,0.22200267016887665,color-filled,base,text-image
+赤 の背景,text,filled_white.png,image,0.21535372734069824,color-filled,base,text-image
+赤 の背景,text,filled_green.png,image,0.20024994015693665,color-filled,base,text-image
+赤 の背景,text,filled_yellow.png,image,0.2000167816877365,color-filled,base,text-image
+青 の背景,text,filled_red.png,image,0.20875075459480286,color-filled,base,text-image
+青 の背景,text,filled_blue.png,image,0.21876148879528046,color-filled,base,text-image
+青 の背景,text,filled_black.png,image,0.22845938801765442,color-filled,base,text-image
+青 の背景,text,filled_white.png,image,0.20545977354049683,color-filled,base,text-image
+青 の背景,text,filled_green.png,image,0.20817750692367554,color-filled,base,text-image
+青 の背景,text,filled_yellow.png,image,0.19946236908435822,color-filled,base,text-image
+黒 の背景,text,filled_red.png,image,0.21234922111034393,color-filled,base,text-image
+黒 の背景,text,filled_blue.png,image,0.2196711003780365,color-filled,base,text-image
+黒 の背景,text,filled_black.png,image,0.22710546851158142,color-filled,base,text-image
+黒 の背景,text,filled_white.png,image,0.20884104073047638,color-filled,base,text-image
+黒 の背景,text,filled_green.png,image,0.20923149585723877,color-filled,base,text-image
+黒 の背景,text,filled_yellow.png,image,0.20497627556324005,color-filled,base,text-image
+白 の背景,text,filled_red.png,image,0.2091054767370224,color-filled,base,text-image
+白 の背景,text,filled_blue.png,image,0.2171485722064972,color-filled,base,text-image
+白 の背景,text,filled_black.png,image,0.22500699758529663,color-filled,base,text-image
+白 の背景,text,filled_white.png,image,0.20836752653121948,color-filled,base,text-image
+白 の背景,text,filled_green.png,image,0.20402130484580994,color-filled,base,text-image
+白 の背景,text,filled_yellow.png,image,0.201564222574234,color-filled,base,text-image
+緑 の背景,text,filled_red.png,image,0.2081623077392578,color-filled,base,text-image
+緑 の背景,text,filled_blue.png,image,0.22279763221740723,color-filled,base,text-image
+緑 の背景,text,filled_black.png,image,0.2219250649213791,color-filled,base,text-image
+緑 の背景,text,filled_white.png,image,0.20797638595104218,color-filled,base,text-image
+緑 の背景,text,filled_green.png,image,0.21813620626926422,color-filled,base,text-image
+緑 の背景,text,filled_yellow.png,image,0.20032085478305817,color-filled,base,text-image
+黄色 の背景,text,filled_red.png,image,0.20838665962219238,color-filled,base,text-image
+黄色 の背景,text,filled_blue.png,image,0.21707575023174286,color-filled,base,text-image
+黄色 の背景,text,filled_black.png,image,0.22164824604988098,color-filled,base,text-image
+黄色 の背景,text,filled_white.png,image,0.21059320867061615,color-filled,base,text-image
+黄色 の背景,text,filled_green.png,image,0.2058267891407013,color-filled,base,text-image
+黄色 の背景,text,filled_yellow.png,image,0.20449389517307281,color-filled,base,text-image
+filled red,text,filled blue,text,0.819704532623291,color-filled,base,text-text
+filled red,text,filled black,text,0.8341735601425171,color-filled,base,text-text
+filled red,text,filled white,text,0.8411946892738342,color-filled,base,text-text
+filled red,text,filled green,text,0.829890787601471,color-filled,base,text-text
+filled red,text,filled yellow,text,0.8222521543502808,color-filled,base,text-text
+filled red,text,赤 の背景,text,0.7303088307380676,color-filled,base,text-text
+filled red,text,青 の背景,text,0.7251089811325073,color-filled,base,text-text
+filled red,text,黒 の背景,text,0.7109856605529785,color-filled,base,text-text
+filled red,text,白 の背景,text,0.7383057475090027,color-filled,base,text-text
+filled red,text,緑 の背景,text,0.7227188944816589,color-filled,base,text-text
+filled red,text,黄色 の背景,text,0.7277209162712097,color-filled,base,text-text
+filled blue,text,filled black,text,0.8396872282028198,color-filled,base,text-text
+filled blue,text,filled white,text,0.8492177128791809,color-filled,base,text-text
+filled blue,text,filled green,text,0.8304039835929871,color-filled,base,text-text
+filled blue,text,filled yellow,text,0.8055069446563721,color-filled,base,text-text
+filled blue,text,赤 の背景,text,0.7407429814338684,color-filled,base,text-text
+filled blue,text,青 の背景,text,0.7377995252609253,color-filled,base,text-text
+filled blue,text,黒 の背景,text,0.7247022390365601,color-filled,base,text-text
+filled blue,text,白 の背景,text,0.7458168268203735,color-filled,base,text-text
+filled blue,text,緑 の背景,text,0.7517072558403015,color-filled,base,text-text
+filled blue,text,黄色 の背景,text,0.7403470873832703,color-filled,base,text-text
+filled black,text,filled white,text,0.8686898946762085,color-filled,base,text-text
+filled black,text,filled green,text,0.8343420028686523,color-filled,base,text-text
+filled black,text,filled yellow,text,0.8244971632957458,color-filled,base,text-text
+filled black,text,赤 の背景,text,0.7417361736297607,color-filled,base,text-text
+filled black,text,青 の背景,text,0.7413564324378967,color-filled,base,text-text
+filled black,text,黒 の背景,text,0.7526516318321228,color-filled,base,text-text
+filled black,text,白 の背景,text,0.7470056414604187,color-filled,base,text-text
+filled black,text,緑 の背景,text,0.7321463227272034,color-filled,base,text-text
+filled black,text,黄色 の背景,text,0.7416614890098572,color-filled,base,text-text
+filled white,text,filled green,text,0.8324195742607117,color-filled,base,text-text
+filled white,text,filled yellow,text,0.8228419423103333,color-filled,base,text-text
+filled white,text,赤 の背景,text,0.763004720211029,color-filled,base,text-text
+filled white,text,青 の背景,text,0.7597846984863281,color-filled,base,text-text
+filled white,text,黒 の背景,text,0.7420769929885864,color-filled,base,text-text
+filled white,text,白 の背景,text,0.7680988907814026,color-filled,base,text-text
+filled white,text,緑 の背景,text,0.7600972652435303,color-filled,base,text-text
+filled white,text,黄色 の背景,text,0.7630271911621094,color-filled,base,text-text
+filled green,text,filled yellow,text,0.8253645896911621,color-filled,base,text-text
+filled green,text,赤 の背景,text,0.741866946220398,color-filled,base,text-text
+filled green,text,青 の背景,text,0.7380493879318237,color-filled,base,text-text
+filled green,text,黒 の背景,text,0.734052300453186,color-filled,base,text-text
+filled green,text,白 の背景,text,0.7539833188056946,color-filled,base,text-text
+filled green,text,緑 の背景,text,0.7721006274223328,color-filled,base,text-text
+filled green,text,黄色 の背景,text,0.746120035648346,color-filled,base,text-text
+filled yellow,text,赤 の背景,text,0.71427321434021,color-filled,base,text-text
+filled yellow,text,青 の背景,text,0.7039794325828552,color-filled,base,text-text
+filled yellow,text,黒 の背景,text,0.6892202496528625,color-filled,base,text-text
+filled yellow,text,白 の背景,text,0.7180628776550293,color-filled,base,text-text
+filled yellow,text,緑 の背景,text,0.7066925764083862,color-filled,base,text-text
+filled yellow,text,黄色 の背景,text,0.7146758437156677,color-filled,base,text-text
+赤 の背景,text,青 の背景,text,0.9760995507240295,color-filled,base,text-text
+赤 の背景,text,黒 の背景,text,0.973721981048584,color-filled,base,text-text
+赤 の背景,text,白 の背景,text,0.984061598777771,color-filled,base,text-text
+赤 の背景,text,緑 の背景,text,0.9808869361877441,color-filled,base,text-text
+赤 の背景,text,黄色 の背景,text,0.9876062870025635,color-filled,base,text-text
+青 の背景,text,黒 の背景,text,0.9803564548492432,color-filled,base,text-text
+青 の背景,text,白 の背景,text,0.9799322485923767,color-filled,base,text-text
+青 の背景,text,緑 の背景,text,0.9749243855476379,color-filled,base,text-text
+青 の背景,text,黄色 の背景,text,0.9820526838302612,color-filled,base,text-text
+黒 の背景,text,白 の背景,text,0.9782381653785706,color-filled,base,text-text
+黒 の背景,text,緑 の背景,text,0.9712321758270264,color-filled,base,text-text
+黒 の背景,text,黄色 の背景,text,0.9858564138412476,color-filled,base,text-text
+白 の背景,text,緑 の背景,text,0.9861090183258057,color-filled,base,text-text
+白 の背景,text,黄色 の背景,text,0.9861556887626648,color-filled,base,text-text
+緑 の背景,text,黄色 の背景,text,0.9812361001968384,color-filled,base,text-text
+filled_red.png,image,filled_blue.png,image,0.9348539710044861,color-filled,base,image-image
+filled_red.png,image,filled_black.png,image,0.8521154522895813,color-filled,base,image-image
+filled_red.png,image,filled_white.png,image,0.8426917195320129,color-filled,base,image-image
+filled_red.png,image,filled_green.png,image,0.8923911452293396,color-filled,base,image-image
+filled_red.png,image,filled_yellow.png,image,0.932594895362854,color-filled,base,image-image
+filled_blue.png,image,filled_black.png,image,0.8541229963302612,color-filled,base,image-image
+filled_blue.png,image,filled_white.png,image,0.8541650772094727,color-filled,base,image-image
+filled_blue.png,image,filled_green.png,image,0.9071776270866394,color-filled,base,image-image
+filled_blue.png,image,filled_yellow.png,image,0.9254712462425232,color-filled,base,image-image
+filled_black.png,image,filled_white.png,image,0.8940876126289368,color-filled,base,image-image
+filled_black.png,image,filled_green.png,image,0.8052136301994324,color-filled,base,image-image
+filled_black.png,image,filled_yellow.png,image,0.8377305269241333,color-filled,base,image-image
+filled_white.png,image,filled_green.png,image,0.8010966777801514,color-filled,base,image-image
+filled_white.png,image,filled_yellow.png,image,0.8656204342842102,color-filled,base,image-image
+filled_green.png,image,filled_yellow.png,image,0.9056861400604248,color-filled,base,image-image

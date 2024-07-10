@@ -1,0 +1,326 @@
+name_a,type_a,name_b,type_b,similarity,tag,model,a_b_type
+TOKYO TOWER,text,TOKYO-TOWER.jpg,image,0.30706506967544556,object,base,text-image
+TOKYO TOWER,text,TOKYO-SKYTREE.jpg,image,0.2813296318054199,object,base,text-image
+TOKYO TOWER,text,Tour-Eiffel.jpg,image,0.23977354168891907,object,base,text-image
+TOKYO TOWER,text,Statue-of-Liberty.jpg,image,0.1648848056793213,object,base,text-image
+TOKYO TOWER,text,Big-Ben.jpg,image,0.16585242748260498,object,base,text-image
+TOKYO SKYTREE,text,TOKYO-TOWER.jpg,image,0.28169283270835876,object,base,text-image
+TOKYO SKYTREE,text,TOKYO-SKYTREE.jpg,image,0.31679028272628784,object,base,text-image
+TOKYO SKYTREE,text,Tour-Eiffel.jpg,image,0.21376270055770874,object,base,text-image
+TOKYO SKYTREE,text,Statue-of-Liberty.jpg,image,0.18341979384422302,object,base,text-image
+TOKYO SKYTREE,text,Big-Ben.jpg,image,0.1732148677110672,object,base,text-image
+Tour Eiffel,text,TOKYO-TOWER.jpg,image,0.2626771032810211,object,base,text-image
+Tour Eiffel,text,TOKYO-SKYTREE.jpg,image,0.21160879731178284,object,base,text-image
+Tour Eiffel,text,Tour-Eiffel.jpg,image,0.3142501711845398,object,base,text-image
+Tour Eiffel,text,Statue-of-Liberty.jpg,image,0.21976768970489502,object,base,text-image
+Tour Eiffel,text,Big-Ben.jpg,image,0.19984783232212067,object,base,text-image
+Statue of Liberty,text,TOKYO-TOWER.jpg,image,0.19694030284881592,object,base,text-image
+Statue of Liberty,text,TOKYO-SKYTREE.jpg,image,0.19920410215854645,object,base,text-image
+Statue of Liberty,text,Tour-Eiffel.jpg,image,0.23521466553211212,object,base,text-image
+Statue of Liberty,text,Statue-of-Liberty.jpg,image,0.30865374207496643,object,base,text-image
+Statue of Liberty,text,Big-Ben.jpg,image,0.17965587973594666,object,base,text-image
+Big Ben,text,TOKYO-TOWER.jpg,image,0.22756794095039368,object,base,text-image
+Big Ben,text,TOKYO-SKYTREE.jpg,image,0.21468016505241394,object,base,text-image
+Big Ben,text,Tour-Eiffel.jpg,image,0.24903063476085663,object,base,text-image
+Big Ben,text,Statue-of-Liberty.jpg,image,0.2083226889371872,object,base,text-image
+Big Ben,text,Big-Ben.jpg,image,0.3287542164325714,object,base,text-image
+TOKYO TOWER,text,Japan,text,0.7228085398674011,object,base,text-text
+TOKYO TOWER,text,France,text,0.5919226408004761,object,base,text-text
+TOKYO TOWER,text,USA,text,0.6076498031616211,object,base,text-text
+TOKYO TOWER,text,UK,text,0.5985913276672363,object,base,text-text
+TOKYO SKYTREE,text,Japan,text,0.6845090985298157,object,base,text-text
+TOKYO SKYTREE,text,France,text,0.6052126884460449,object,base,text-text
+TOKYO SKYTREE,text,USA,text,0.5829421877861023,object,base,text-text
+TOKYO SKYTREE,text,UK,text,0.5849634408950806,object,base,text-text
+Tour Eiffel,text,Japan,text,0.7417725324630737,object,base,text-text
+Tour Eiffel,text,France,text,0.8035749197006226,object,base,text-text
+Tour Eiffel,text,USA,text,0.7466375827789307,object,base,text-text
+Tour Eiffel,text,UK,text,0.7376530170440674,object,base,text-text
+Statue of Liberty,text,Japan,text,0.7447241544723511,object,base,text-text
+Statue of Liberty,text,France,text,0.7859213948249817,object,base,text-text
+Statue of Liberty,text,USA,text,0.7920656800270081,object,base,text-text
+Statue of Liberty,text,UK,text,0.7414538860321045,object,base,text-text
+Big Ben,text,Japan,text,0.7690385580062866,object,base,text-text
+Big Ben,text,France,text,0.7637001872062683,object,base,text-text
+Big Ben,text,USA,text,0.8109518885612488,object,base,text-text
+Big Ben,text,UK,text,0.8088937997817993,object,base,text-text
+Japan,text,TOKYO-TOWER.jpg,image,0.2537114918231964,object,base,text-image
+Japan,text,TOKYO-SKYTREE.jpg,image,0.2730621099472046,object,base,text-image
+Japan,text,Tour-Eiffel.jpg,image,0.22145803272724152,object,base,text-image
+Japan,text,Statue-of-Liberty.jpg,image,0.2198987603187561,object,base,text-image
+Japan,text,Big-Ben.jpg,image,0.1877829134464264,object,base,text-image
+France,text,TOKYO-TOWER.jpg,image,0.2299860119819641,object,base,text-image
+France,text,TOKYO-SKYTREE.jpg,image,0.19778242707252502,object,base,text-image
+France,text,Tour-Eiffel.jpg,image,0.275540828704834,object,base,text-image
+France,text,Statue-of-Liberty.jpg,image,0.23595483601093292,object,base,text-image
+France,text,Big-Ben.jpg,image,0.21370764076709747,object,base,text-image
+USA,text,TOKYO-TOWER.jpg,image,0.2197573333978653,object,base,text-image
+USA,text,TOKYO-SKYTREE.jpg,image,0.2174367904663086,object,base,text-image
+USA,text,Tour-Eiffel.jpg,image,0.23394496738910675,object,base,text-image
+USA,text,Statue-of-Liberty.jpg,image,0.2582269012928009,object,base,text-image
+USA,text,Big-Ben.jpg,image,0.20558619499206543,object,base,text-image
+UK,text,TOKYO-TOWER.jpg,image,0.21902593970298767,object,base,text-image
+UK,text,TOKYO-SKYTREE.jpg,image,0.204813614487648,object,base,text-image
+UK,text,Tour-Eiffel.jpg,image,0.21970051527023315,object,base,text-image
+UK,text,Statue-of-Liberty.jpg,image,0.20908135175704956,object,base,text-image
+UK,text,Big-Ben.jpg,image,0.27134767174720764,object,base,text-image
+TOKYO TOWER,text,TOKYO SKYTREE,text,0.826424241065979,object,base,text-text
+TOKYO TOWER,text,Tour Eiffel,text,0.7567921876907349,object,base,text-text
+TOKYO TOWER,text,Statue of Liberty,text,0.6316202878952026,object,base,text-text
+TOKYO TOWER,text,Big Ben,text,0.6366456747055054,object,base,text-text
+TOKYO SKYTREE,text,Tour Eiffel,text,0.7025019526481628,object,base,text-text
+TOKYO SKYTREE,text,Statue of Liberty,text,0.6498716473579407,object,base,text-text
+TOKYO SKYTREE,text,Big Ben,text,0.6285327672958374,object,base,text-text
+Tour Eiffel,text,Statue of Liberty,text,0.7788112759590149,object,base,text-text
+Tour Eiffel,text,Big Ben,text,0.7813126444816589,object,base,text-text
+Statue of Liberty,text,Big Ben,text,0.7565819025039673,object,base,text-text
+TOKYO-TOWER.jpg,image,TOKYO-SKYTREE.jpg,image,0.8503223061561584,object,base,image-image
+TOKYO-TOWER.jpg,image,Tour-Eiffel.jpg,image,0.8002135753631592,object,base,image-image
+TOKYO-TOWER.jpg,image,Statue-of-Liberty.jpg,image,0.7022215723991394,object,base,image-image
+TOKYO-TOWER.jpg,image,Big-Ben.jpg,image,0.6249058246612549,object,base,image-image
+TOKYO-SKYTREE.jpg,image,Tour-Eiffel.jpg,image,0.7524943351745605,object,base,image-image
+TOKYO-SKYTREE.jpg,image,Statue-of-Liberty.jpg,image,0.6539771556854248,object,base,image-image
+TOKYO-SKYTREE.jpg,image,Big-Ben.jpg,image,0.6103271245956421,object,base,image-image
+Tour-Eiffel.jpg,image,Statue-of-Liberty.jpg,image,0.7279864549636841,object,base,image-image
+Tour-Eiffel.jpg,image,Big-Ben.jpg,image,0.6617755889892578,object,base,image-image
+Statue-of-Liberty.jpg,image,Big-Ben.jpg,image,0.6032252311706543,object,base,image-image
+img: TOKYO-TOWER.jpg - text: Japan + text: France,custom,TOKYO-SKYTREE.jpg,image,0.7067625522613525,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: Japan + text: France,custom,Tour-Eiffel.jpg,image,0.7779386043548584,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: Japan + text: France,custom,Statue-of-Liberty.jpg,image,0.6554462909698486,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: Japan + text: France,custom,Big-Ben.jpg,image,0.5934765338897705,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: Japan + text: USA,custom,TOKYO-SKYTREE.jpg,image,0.7520030736923218,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: Japan + text: USA,custom,Tour-Eiffel.jpg,image,0.7675607800483704,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: Japan + text: USA,custom,Statue-of-Liberty.jpg,image,0.7028162479400635,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: Japan + text: USA,custom,Big-Ben.jpg,image,0.6087284088134766,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: Japan + text: UK,custom,TOKYO-SKYTREE.jpg,image,0.7246204614639282,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: Japan + text: UK,custom,Tour-Eiffel.jpg,image,0.7377574443817139,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: Japan + text: UK,custom,Statue-of-Liberty.jpg,image,0.6400812864303589,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: Japan + text: UK,custom,Big-Ben.jpg,image,0.6550351977348328,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: France + text: Japan,custom,TOKYO-SKYTREE.jpg,image,0.8018919229507446,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: France + text: Japan,custom,Tour-Eiffel.jpg,image,0.642724335193634,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: France + text: Japan,custom,Statue-of-Liberty.jpg,image,0.5910259485244751,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: France + text: Japan,custom,Big-Ben.jpg,image,0.5158395171165466,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: France + text: USA,custom,TOKYO-SKYTREE.jpg,image,0.7787213921546936,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: France + text: USA,custom,Tour-Eiffel.jpg,image,0.6783912181854248,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: France + text: USA,custom,Statue-of-Liberty.jpg,image,0.650763213634491,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: France + text: USA,custom,Big-Ben.jpg,image,0.5527797341346741,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: France + text: UK,custom,TOKYO-SKYTREE.jpg,image,0.7626717686653137,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: France + text: UK,custom,Tour-Eiffel.jpg,image,0.6592816114425659,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: France + text: UK,custom,Statue-of-Liberty.jpg,image,0.598685622215271,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: France + text: UK,custom,Big-Ben.jpg,image,0.6064286828041077,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: USA + text: Japan,custom,TOKYO-SKYTREE.jpg,image,0.7951623201370239,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: USA + text: Japan,custom,Tour-Eiffel.jpg,image,0.6893244981765747,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: USA + text: Japan,custom,Statue-of-Liberty.jpg,image,0.5760990381240845,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: USA + text: Japan,custom,Big-Ben.jpg,image,0.5291269421577454,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: USA + text: France,custom,TOKYO-SKYTREE.jpg,image,0.7264010310173035,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: USA + text: France,custom,Tour-Eiffel.jpg,image,0.7377023696899414,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: USA + text: France,custom,Statue-of-Liberty.jpg,image,0.5922589302062988,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: USA + text: France,custom,Big-Ben.jpg,image,0.5532224178314209,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: USA + text: UK,custom,TOKYO-SKYTREE.jpg,image,0.7622458338737488,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: USA + text: UK,custom,Tour-Eiffel.jpg,image,0.7136308550834656,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: USA + text: UK,custom,Statue-of-Liberty.jpg,image,0.5893555879592896,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: USA + text: UK,custom,Big-Ben.jpg,image,0.6278774738311768,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: UK + text: Japan,custom,TOKYO-SKYTREE.jpg,image,0.7960714101791382,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: UK + text: Japan,custom,Tour-Eiffel.jpg,image,0.6952467560768127,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: UK + text: Japan,custom,Statue-of-Liberty.jpg,image,0.6171883344650269,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: UK + text: Japan,custom,Big-Ben.jpg,image,0.46675243973731995,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: UK + text: France,custom,TOKYO-SKYTREE.jpg,image,0.7391270995140076,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: UK + text: France,custom,Tour-Eiffel.jpg,image,0.7525110244750977,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: UK + text: France,custom,Statue-of-Liberty.jpg,image,0.6407418847084045,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: UK + text: France,custom,Big-Ben.jpg,image,0.49843454360961914,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: UK + text: USA,custom,TOKYO-SKYTREE.jpg,image,0.7907841205596924,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: UK + text: USA,custom,Tour-Eiffel.jpg,image,0.7478022575378418,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: UK + text: USA,custom,Statue-of-Liberty.jpg,image,0.6923331618309021,object,base,custom-image
+img: TOKYO-TOWER.jpg - text: UK + text: USA,custom,Big-Ben.jpg,image,0.5148855447769165,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: Japan + text: France,custom,TOKYO-TOWER.jpg,image,0.7786329388618469,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: Japan + text: France,custom,Tour-Eiffel.jpg,image,0.7639759182929993,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: Japan + text: France,custom,Statue-of-Liberty.jpg,image,0.6350092887878418,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: Japan + text: France,custom,Big-Ben.jpg,image,0.602286159992218,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: Japan + text: USA,custom,TOKYO-TOWER.jpg,image,0.7788189053535461,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: Japan + text: USA,custom,Tour-Eiffel.jpg,image,0.7329471707344055,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: Japan + text: USA,custom,Statue-of-Liberty.jpg,image,0.668291449546814,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: Japan + text: USA,custom,Big-Ben.jpg,image,0.6032693386077881,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: Japan + text: UK,custom,TOKYO-TOWER.jpg,image,0.7685091495513916,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: Japan + text: UK,custom,Tour-Eiffel.jpg,image,0.7084389925003052,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: Japan + text: UK,custom,Statue-of-Liberty.jpg,image,0.607926070690155,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: Japan + text: UK,custom,Big-Ben.jpg,image,0.6587129831314087,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: France + text: Japan,custom,TOKYO-TOWER.jpg,image,0.7188970446586609,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: France + text: Japan,custom,Tour-Eiffel.jpg,image,0.5678882598876953,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: France + text: Japan,custom,Statue-of-Liberty.jpg,image,0.5199278593063354,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: France + text: Japan,custom,Big-Ben.jpg,image,0.47641807794570923,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: France + text: USA,custom,TOKYO-TOWER.jpg,image,0.7252675294876099,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: France + text: USA,custom,Tour-Eiffel.jpg,image,0.6126084923744202,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: France + text: USA,custom,Statue-of-Liberty.jpg,image,0.5882900953292847,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: France + text: USA,custom,Big-Ben.jpg,image,0.5211482048034668,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: France + text: UK,custom,TOKYO-TOWER.jpg,image,0.7258676290512085,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: France + text: UK,custom,Tour-Eiffel.jpg,image,0.5980904698371887,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: France + text: UK,custom,Statue-of-Liberty.jpg,image,0.5398817658424377,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: France + text: UK,custom,Big-Ben.jpg,image,0.5804429650306702,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: USA + text: Japan,custom,TOKYO-TOWER.jpg,image,0.7565139532089233,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: USA + text: Japan,custom,Tour-Eiffel.jpg,image,0.6279414892196655,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: USA + text: Japan,custom,Statue-of-Liberty.jpg,image,0.515998363494873,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: USA + text: Japan,custom,Big-Ben.jpg,image,0.5009505748748779,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: USA + text: France,custom,TOKYO-TOWER.jpg,image,0.7647704482078552,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: USA + text: France,custom,Tour-Eiffel.jpg,image,0.7072985172271729,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: USA + text: France,custom,Statue-of-Liberty.jpg,image,0.5563369989395142,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: USA + text: France,custom,Big-Ben.jpg,image,0.5483156442642212,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: USA + text: UK,custom,TOKYO-TOWER.jpg,image,0.7747108936309814,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: USA + text: UK,custom,Tour-Eiffel.jpg,image,0.670126736164093,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: USA + text: UK,custom,Statue-of-Liberty.jpg,image,0.543372392654419,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: USA + text: UK,custom,Big-Ben.jpg,image,0.6185622811317444,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: UK + text: Japan,custom,TOKYO-TOWER.jpg,image,0.7409838438034058,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: UK + text: Japan,custom,Tour-Eiffel.jpg,image,0.6298431754112244,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: UK + text: Japan,custom,Statue-of-Liberty.jpg,image,0.5544752478599548,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: UK + text: Japan,custom,Big-Ben.jpg,image,0.43401116132736206,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: UK + text: France,custom,TOKYO-TOWER.jpg,image,0.7592012286186218,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: UK + text: France,custom,Tour-Eiffel.jpg,image,0.7162822484970093,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: UK + text: France,custom,Statue-of-Liberty.jpg,image,0.6023404598236084,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: UK + text: France,custom,Big-Ben.jpg,image,0.4852675795555115,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: UK + text: USA,custom,TOKYO-TOWER.jpg,image,0.7662934064865112,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: UK + text: USA,custom,Tour-Eiffel.jpg,image,0.6929436326026917,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: UK + text: USA,custom,Statue-of-Liberty.jpg,image,0.6396171450614929,object,base,custom-image
+img: TOKYO-SKYTREE.jpg - text: UK + text: USA,custom,Big-Ben.jpg,image,0.49011456966400146,object,base,custom-image
+img: Tour-Eiffel.jpg - text: Japan + text: France,custom,TOKYO-TOWER.jpg,image,0.6636391282081604,object,base,custom-image
+img: Tour-Eiffel.jpg - text: Japan + text: France,custom,TOKYO-SKYTREE.jpg,image,0.5792973041534424,object,base,custom-image
+img: Tour-Eiffel.jpg - text: Japan + text: France,custom,Statue-of-Liberty.jpg,image,0.6364425420761108,object,base,custom-image
+img: Tour-Eiffel.jpg - text: Japan + text: France,custom,Big-Ben.jpg,image,0.5878213047981262,object,base,custom-image
+img: Tour-Eiffel.jpg - text: Japan + text: USA,custom,TOKYO-TOWER.jpg,image,0.6949485540390015,object,base,custom-image
+img: Tour-Eiffel.jpg - text: Japan + text: USA,custom,TOKYO-SKYTREE.jpg,image,0.6340397000312805,object,base,custom-image
+img: Tour-Eiffel.jpg - text: Japan + text: USA,custom,Statue-of-Liberty.jpg,image,0.6977493762969971,object,base,custom-image
+img: Tour-Eiffel.jpg - text: Japan + text: USA,custom,Big-Ben.jpg,image,0.6167306303977966,object,base,custom-image
+img: Tour-Eiffel.jpg - text: Japan + text: UK,custom,TOKYO-TOWER.jpg,image,0.6867058277130127,object,base,custom-image
+img: Tour-Eiffel.jpg - text: Japan + text: UK,custom,TOKYO-SKYTREE.jpg,image,0.6147142648696899,object,base,custom-image
+img: Tour-Eiffel.jpg - text: Japan + text: UK,custom,Statue-of-Liberty.jpg,image,0.6432203054428101,object,base,custom-image
+img: Tour-Eiffel.jpg - text: Japan + text: UK,custom,Big-Ben.jpg,image,0.6697654724121094,object,base,custom-image
+img: Tour-Eiffel.jpg - text: France + text: Japan,custom,TOKYO-TOWER.jpg,image,0.7560569047927856,object,base,custom-image
+img: Tour-Eiffel.jpg - text: France + text: Japan,custom,TOKYO-SKYTREE.jpg,image,0.7613018751144409,object,base,custom-image
+img: Tour-Eiffel.jpg - text: France + text: Japan,custom,Statue-of-Liberty.jpg,image,0.6510477066040039,object,base,custom-image
+img: Tour-Eiffel.jpg - text: France + text: Japan,custom,Big-Ben.jpg,image,0.5814194679260254,object,base,custom-image
+img: Tour-Eiffel.jpg - text: France + text: USA,custom,TOKYO-TOWER.jpg,image,0.7213345766067505,object,base,custom-image
+img: Tour-Eiffel.jpg - text: France + text: USA,custom,TOKYO-SKYTREE.jpg,image,0.7068289518356323,object,base,custom-image
+img: Tour-Eiffel.jpg - text: France + text: USA,custom,Statue-of-Liberty.jpg,image,0.6882994174957275,object,base,custom-image
+img: Tour-Eiffel.jpg - text: France + text: USA,custom,Big-Ben.jpg,image,0.5975418090820312,object,base,custom-image
+img: Tour-Eiffel.jpg - text: France + text: UK,custom,TOKYO-TOWER.jpg,image,0.7242815494537354,object,base,custom-image
+img: Tour-Eiffel.jpg - text: France + text: UK,custom,TOKYO-SKYTREE.jpg,image,0.6981732249259949,object,base,custom-image
+img: Tour-Eiffel.jpg - text: France + text: UK,custom,Statue-of-Liberty.jpg,image,0.6420502066612244,object,base,custom-image
+img: Tour-Eiffel.jpg - text: France + text: UK,custom,Big-Ben.jpg,image,0.6624850630760193,object,base,custom-image
+img: Tour-Eiffel.jpg - text: USA + text: Japan,custom,TOKYO-TOWER.jpg,image,0.757112443447113,object,base,custom-image
+img: Tour-Eiffel.jpg - text: USA + text: Japan,custom,TOKYO-SKYTREE.jpg,image,0.7326836585998535,object,base,custom-image
+img: Tour-Eiffel.jpg - text: USA + text: Japan,custom,Statue-of-Liberty.jpg,image,0.619031548500061,object,base,custom-image
+img: Tour-Eiffel.jpg - text: USA + text: Japan,custom,Big-Ben.jpg,image,0.5814183354377747,object,base,custom-image
+img: Tour-Eiffel.jpg - text: USA + text: France,custom,TOKYO-TOWER.jpg,image,0.688093900680542,object,base,custom-image
+img: Tour-Eiffel.jpg - text: USA + text: France,custom,TOKYO-SKYTREE.jpg,image,0.620137095451355,object,base,custom-image
+img: Tour-Eiffel.jpg - text: USA + text: France,custom,Statue-of-Liberty.jpg,image,0.5956987142562866,object,base,custom-image
+img: Tour-Eiffel.jpg - text: USA + text: France,custom,Big-Ben.jpg,image,0.568109393119812,object,base,custom-image
+img: Tour-Eiffel.jpg - text: USA + text: UK,custom,TOKYO-TOWER.jpg,image,0.7327337265014648,object,base,custom-image
+img: Tour-Eiffel.jpg - text: USA + text: UK,custom,TOKYO-SKYTREE.jpg,image,0.6769351959228516,object,base,custom-image
+img: Tour-Eiffel.jpg - text: USA + text: UK,custom,Statue-of-Liberty.jpg,image,0.6166720390319824,object,base,custom-image
+img: Tour-Eiffel.jpg - text: USA + text: UK,custom,Big-Ben.jpg,image,0.6688608527183533,object,base,custom-image
+img: Tour-Eiffel.jpg - text: UK + text: Japan,custom,TOKYO-TOWER.jpg,image,0.7379989624023438,object,base,custom-image
+img: Tour-Eiffel.jpg - text: UK + text: Japan,custom,TOKYO-SKYTREE.jpg,image,0.7255252599716187,object,base,custom-image
+img: Tour-Eiffel.jpg - text: UK + text: Japan,custom,Statue-of-Liberty.jpg,image,0.652596652507782,object,base,custom-image
+img: Tour-Eiffel.jpg - text: UK + text: Japan,custom,Big-Ben.jpg,image,0.5068423748016357,object,base,custom-image
+img: Tour-Eiffel.jpg - text: UK + text: France,custom,TOKYO-TOWER.jpg,image,0.6839063167572021,object,base,custom-image
+img: Tour-Eiffel.jpg - text: UK + text: France,custom,TOKYO-SKYTREE.jpg,image,0.6276715397834778,object,base,custom-image
+img: Tour-Eiffel.jpg - text: UK + text: France,custom,Statue-of-Liberty.jpg,image,0.6374253630638123,object,base,custom-image
+img: Tour-Eiffel.jpg - text: UK + text: France,custom,Big-Ben.jpg,image,0.5081489682197571,object,base,custom-image
+img: Tour-Eiffel.jpg - text: UK + text: USA,custom,TOKYO-TOWER.jpg,image,0.7229808568954468,object,base,custom-image
+img: Tour-Eiffel.jpg - text: UK + text: USA,custom,TOKYO-SKYTREE.jpg,image,0.6914226412773132,object,base,custom-image
+img: Tour-Eiffel.jpg - text: UK + text: USA,custom,Statue-of-Liberty.jpg,image,0.7053895592689514,object,base,custom-image
+img: Tour-Eiffel.jpg - text: UK + text: USA,custom,Big-Ben.jpg,image,0.5378612279891968,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: Japan + text: France,custom,TOKYO-TOWER.jpg,image,0.605829656124115,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: Japan + text: France,custom,TOKYO-SKYTREE.jpg,image,0.5197583436965942,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: Japan + text: France,custom,Tour-Eiffel.jpg,image,0.6946507692337036,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: Japan + text: France,custom,Big-Ben.jpg,image,0.5592436790466309,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: Japan + text: USA,custom,TOKYO-TOWER.jpg,image,0.6023098230361938,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: Japan + text: USA,custom,TOKYO-SKYTREE.jpg,image,0.5425171852111816,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: Japan + text: USA,custom,Tour-Eiffel.jpg,image,0.6638511419296265,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: Japan + text: USA,custom,Big-Ben.jpg,image,0.5572277307510376,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: Japan + text: UK,custom,TOKYO-TOWER.jpg,image,0.6114768385887146,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: Japan + text: UK,custom,TOKYO-SKYTREE.jpg,image,0.5391981601715088,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: Japan + text: UK,custom,Tour-Eiffel.jpg,image,0.6624119281768799,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: Japan + text: UK,custom,Big-Ben.jpg,image,0.6246426105499268,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: France + text: Japan,custom,TOKYO-TOWER.jpg,image,0.6474482417106628,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: France + text: Japan,custom,TOKYO-SKYTREE.jpg,image,0.649791955947876,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: France + text: Japan,custom,Tour-Eiffel.jpg,image,0.6010509133338928,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: France + text: Japan,custom,Big-Ben.jpg,image,0.5152769088745117,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: France + text: USA,custom,TOKYO-TOWER.jpg,image,0.6065118312835693,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: France + text: USA,custom,TOKYO-SKYTREE.jpg,image,0.5908582806587219,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: France + text: USA,custom,Tour-Eiffel.jpg,image,0.601642906665802,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: France + text: USA,custom,Big-Ben.jpg,image,0.5220274925231934,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: France + text: UK,custom,TOKYO-TOWER.jpg,image,0.6243310570716858,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: France + text: UK,custom,TOKYO-SKYTREE.jpg,image,0.5973252654075623,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: France + text: UK,custom,Tour-Eiffel.jpg,image,0.606360137462616,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: France + text: UK,custom,Big-Ben.jpg,image,0.5963579416275024,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: USA + text: Japan,custom,TOKYO-TOWER.jpg,image,0.6864428520202637,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: USA + text: Japan,custom,TOKYO-SKYTREE.jpg,image,0.6597427129745483,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: USA + text: Japan,custom,Tour-Eiffel.jpg,image,0.6678001880645752,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: USA + text: Japan,custom,Big-Ben.jpg,image,0.5454122424125671,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: USA + text: France,custom,TOKYO-TOWER.jpg,image,0.6432265639305115,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: USA + text: France,custom,TOKYO-SKYTREE.jpg,image,0.5717450380325317,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: USA + text: France,custom,Tour-Eiffel.jpg,image,0.6952784061431885,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: USA + text: France,custom,Big-Ben.jpg,image,0.5514777302742004,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: USA + text: UK,custom,TOKYO-TOWER.jpg,image,0.6681499481201172,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: USA + text: UK,custom,TOKYO-SKYTREE.jpg,image,0.6101323962211609,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: USA + text: UK,custom,Tour-Eiffel.jpg,image,0.6794177889823914,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: USA + text: UK,custom,Big-Ben.jpg,image,0.6367188692092896,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: UK + text: Japan,custom,TOKYO-TOWER.jpg,image,0.650475800037384,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: UK + text: Japan,custom,TOKYO-SKYTREE.jpg,image,0.6360775232315063,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: UK + text: Japan,custom,Tour-Eiffel.jpg,image,0.6458214521408081,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: UK + text: Japan,custom,Big-Ben.jpg,image,0.4593314528465271,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: UK + text: France,custom,TOKYO-TOWER.jpg,image,0.6217584609985352,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: UK + text: France,custom,TOKYO-SKYTREE.jpg,image,0.5639423727989197,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: UK + text: France,custom,Tour-Eiffel.jpg,image,0.6834227442741394,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: UK + text: France,custom,Big-Ben.jpg,image,0.4770389497280121,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: UK + text: USA,custom,TOKYO-TOWER.jpg,image,0.623184859752655,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: UK + text: USA,custom,TOKYO-SKYTREE.jpg,image,0.5912721753120422,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: UK + text: USA,custom,Tour-Eiffel.jpg,image,0.6579712629318237,object,base,custom-image
+img: Statue-of-Liberty.jpg - text: UK + text: USA,custom,Big-Ben.jpg,image,0.4788495600223541,object,base,custom-image
+img: Big-Ben.jpg - text: Japan + text: France,custom,TOKYO-TOWER.jpg,image,0.5261431932449341,object,base,custom-image
+img: Big-Ben.jpg - text: Japan + text: France,custom,TOKYO-SKYTREE.jpg,image,0.46734464168548584,object,base,custom-image
+img: Big-Ben.jpg - text: Japan + text: France,custom,Tour-Eiffel.jpg,image,0.627303421497345,object,base,custom-image
+img: Big-Ben.jpg - text: Japan + text: France,custom,Statue-of-Liberty.jpg,image,0.5422541499137878,object,base,custom-image
+img: Big-Ben.jpg - text: Japan + text: USA,custom,TOKYO-TOWER.jpg,image,0.5370942950248718,object,base,custom-image
+img: Big-Ben.jpg - text: Japan + text: USA,custom,TOKYO-SKYTREE.jpg,image,0.505042552947998,object,base,custom-image
+img: Big-Ben.jpg - text: Japan + text: USA,custom,Tour-Eiffel.jpg,image,0.6115981340408325,object,base,custom-image
+img: Big-Ben.jpg - text: Japan + text: USA,custom,Statue-of-Liberty.jpg,image,0.5856532454490662,object,base,custom-image
+img: Big-Ben.jpg - text: Japan + text: UK,custom,TOKYO-TOWER.jpg,image,0.4956353008747101,object,base,custom-image
+img: Big-Ben.jpg - text: Japan + text: UK,custom,TOKYO-SKYTREE.jpg,image,0.4550810754299164,object,base,custom-image
+img: Big-Ben.jpg - text: Japan + text: UK,custom,Tour-Eiffel.jpg,image,0.5534104108810425,object,base,custom-image
+img: Big-Ben.jpg - text: Japan + text: UK,custom,Statue-of-Liberty.jpg,image,0.4971809685230255,object,base,custom-image
+img: Big-Ben.jpg - text: France + text: Japan,custom,TOKYO-TOWER.jpg,image,0.5723958015441895,object,base,custom-image
+img: Big-Ben.jpg - text: France + text: Japan,custom,TOKYO-SKYTREE.jpg,image,0.6087844967842102,object,base,custom-image
+img: Big-Ben.jpg - text: France + text: Japan,custom,Tour-Eiffel.jpg,image,0.5311996936798096,object,base,custom-image
+img: Big-Ben.jpg - text: France + text: Japan,custom,Statue-of-Liberty.jpg,image,0.5157946348190308,object,base,custom-image
+img: Big-Ben.jpg - text: France + text: USA,custom,TOKYO-TOWER.jpg,image,0.5439273715019226,object,base,custom-image
+img: Big-Ben.jpg - text: France + text: USA,custom,TOKYO-SKYTREE.jpg,image,0.559636652469635,object,base,custom-image
+img: Big-Ben.jpg - text: France + text: USA,custom,Tour-Eiffel.jpg,image,0.5466643571853638,object,base,custom-image
+img: Big-Ben.jpg - text: France + text: USA,custom,Statue-of-Liberty.jpg,image,0.5570569038391113,object,base,custom-image
+img: Big-Ben.jpg - text: France + text: UK,custom,TOKYO-TOWER.jpg,image,0.5086267590522766,object,base,custom-image
+img: Big-Ben.jpg - text: France + text: UK,custom,TOKYO-SKYTREE.jpg,image,0.5131549835205078,object,base,custom-image
+img: Big-Ben.jpg - text: France + text: UK,custom,Tour-Eiffel.jpg,image,0.498508483171463,object,base,custom-image
+img: Big-Ben.jpg - text: France + text: UK,custom,Statue-of-Liberty.jpg,image,0.47615206241607666,object,base,custom-image
+img: Big-Ben.jpg - text: USA + text: Japan,custom,TOKYO-TOWER.jpg,image,0.5921037197113037,object,base,custom-image
+img: Big-Ben.jpg - text: USA + text: Japan,custom,TOKYO-SKYTREE.jpg,image,0.5991631746292114,object,base,custom-image
+img: Big-Ben.jpg - text: USA + text: Japan,custom,Tour-Eiffel.jpg,image,0.5812596082687378,object,base,custom-image
+img: Big-Ben.jpg - text: USA + text: Japan,custom,Statue-of-Liberty.jpg,image,0.49971720576286316,object,base,custom-image
+img: Big-Ben.jpg - text: USA + text: France,custom,TOKYO-TOWER.jpg,image,0.549238920211792,object,base,custom-image
+img: Big-Ben.jpg - text: USA + text: France,custom,TOKYO-SKYTREE.jpg,image,0.5081259608268738,object,base,custom-image
+img: Big-Ben.jpg - text: USA + text: France,custom,Tour-Eiffel.jpg,image,0.6108970046043396,object,base,custom-image
+img: Big-Ben.jpg - text: USA + text: France,custom,Statue-of-Liberty.jpg,image,0.498294472694397,object,base,custom-image
+img: Big-Ben.jpg - text: USA + text: UK,custom,TOKYO-TOWER.jpg,image,0.5288383364677429,object,base,custom-image
+img: Big-Ben.jpg - text: USA + text: UK,custom,TOKYO-SKYTREE.jpg,image,0.505396842956543,object,base,custom-image
+img: Big-Ben.jpg - text: USA + text: UK,custom,Tour-Eiffel.jpg,image,0.5475783944129944,object,base,custom-image
+img: Big-Ben.jpg - text: USA + text: UK,custom,Statue-of-Liberty.jpg,image,0.4635868966579437,object,base,custom-image
+img: Big-Ben.jpg - text: UK + text: Japan,custom,TOKYO-TOWER.jpg,image,0.6241728067398071,object,base,custom-image
+img: Big-Ben.jpg - text: UK + text: Japan,custom,TOKYO-SKYTREE.jpg,image,0.6435220241546631,object,base,custom-image
+img: Big-Ben.jpg - text: UK + text: Japan,custom,Tour-Eiffel.jpg,image,0.627625584602356,object,base,custom-image
+img: Big-Ben.jpg - text: UK + text: Japan,custom,Statue-of-Liberty.jpg,image,0.5805960893630981,object,base,custom-image
+img: Big-Ben.jpg - text: UK + text: France,custom,TOKYO-TOWER.jpg,image,0.5860005617141724,object,base,custom-image
+img: Big-Ben.jpg - text: UK + text: France,custom,TOKYO-SKYTREE.jpg,image,0.5544784069061279,object,base,custom-image
+img: Big-Ben.jpg - text: UK + text: France,custom,Tour-Eiffel.jpg,image,0.6642685532569885,object,base,custom-image
+img: Big-Ben.jpg - text: UK + text: France,custom,Statue-of-Liberty.jpg,image,0.5818156003952026,object,base,custom-image
+img: Big-Ben.jpg - text: UK + text: USA,custom,TOKYO-TOWER.jpg,image,0.6075284481048584,object,base,custom-image
+img: Big-Ben.jpg - text: UK + text: USA,custom,TOKYO-SKYTREE.jpg,image,0.6055716276168823,object,base,custom-image
+img: Big-Ben.jpg - text: UK + text: USA,custom,Tour-Eiffel.jpg,image,0.65708327293396,object,base,custom-image
+img: Big-Ben.jpg - text: UK + text: USA,custom,Statue-of-Liberty.jpg,image,0.6380532383918762,object,base,custom-image
