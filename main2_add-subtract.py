@@ -27,7 +27,7 @@ print("dog and cat-img similarity:", CLIP.similarity(dog_text_embedding, cat_ima
 print("cat and cat-img similarity:", CLIP.similarity(cat_text_embedding, cat_image_embedding))
 print("cat and dog-img similarity:", CLIP.similarity(cat_text_embedding, dog_image_embedding))
 
-# dog-img - dog + cat = cat-img ?
+# dog - img - dog + cat = cat-img ?
 result_embedding = dog_image_embedding - dog_text_embedding + cat_text_embedding
 print("result and cat-img similarity:", CLIP.similarity(result_embedding, cat_image_embedding))
 

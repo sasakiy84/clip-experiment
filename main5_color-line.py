@@ -62,8 +62,6 @@ for a, b in combinations(image_embeddings, 2):
 
 # a の画像から b のテキストの特徴量を引いて c のテキストの特徴量を足すと d の画像の特徴量に近づくかどうかを確認
 for a_img, b_text, c_text, d_image in product(image_embeddings, text_embeddings, text_embeddings, image_embeddings):
-    if a_img.name == d_image.name:
-        continue
     if b_text.name == c_text.name:
         continue
 
